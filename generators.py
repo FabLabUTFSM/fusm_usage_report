@@ -38,6 +38,7 @@ def records_per_machine(df, month=None, compare_with=None, stacked=False):
         return frame
 
     cdf = None
+    extras = {}
 
     if month and type(month) == int:
         mdf = df[df.index.month == month]
@@ -51,11 +52,14 @@ def records_per_machine(df, month=None, compare_with=None, stacked=False):
         count_frame = create_frame(df)
         count_frame['Mes'] = months[month-1]
         display_frame = pd.concat([compare_frame, count_frame])
-
+        extras.update({
+            'color': 'Mes', 
+            'barmode':'relative' if stacked else 'group'
+        })
     else:
         display_frame = create_frame(df)
 
     return dcc.Graph(
-        figure=px.bar(display_frame, x='Tipo de Máquina', y='Registros', color='Mes', barmode='relative' if stacked else 'group', text='Registros'),
+        figure=px.bar(display_frame, x='Tipo de Máquina', y='Registros', text='Registros', **extras),
         config={'displaylogo': False}
     )
