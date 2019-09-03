@@ -24,6 +24,15 @@ def section(title, content, gray=False):
         ])
     ])
 
+def quality_index(df):
+    indexes = df.fillna('?').values
+    return html.Div(className='columns is-multiline is-4 is-variable', children=[
+        html.Div(className=f'column is-one-quarter index-container {"unknown-data" if i[1] == "?" else ""}', children=[
+            html.H1(i[1], className='title'),
+            html.H2(i[0], className='subtitle')
+        ]) for i in indexes
+    ])
+
 def month_selector(df, first_month=None):
     current_month = datetime.now().month
     return html.Div(dcc.RangeSlider(
@@ -151,7 +160,6 @@ def fig_total_capacity(df, caps, months):
         used_caps = [df[df.index.month==month].groupby('Tipo Máquina')['Tiempo de uso en minutos'].sum().divide(total_cap).multiply(100).round(2).get(machine, 0) for month in months]
         figure.add_trace(go.Bar(x=month_names, y=used_caps, name=machine, hoverinfo='name+y'))
     totals_per_month = [f'{df[df.index.month==m].sum()["Tiempo de uso en minutos"]*100/total_cap:.2f}%' for m in months] 
-    print(totals_per_month)
     figure.add_trace(go.Scatter(
         x=month_names, y=totals_per_month, 
         text=totals_per_month,
@@ -205,7 +213,6 @@ def fig_contexts_use(df, months, level, **kwargs):
     try:
         for r in range(row_count):
             for c in range(col_count):
-                print((r+1, c+1))
                 figure.add_trace(next(pie_factory), r+1, c+1)
     except StopIteration as stop:
         pass

@@ -9,3 +9,14 @@
 .slider-frame {
     margin: 10%;
 }
+
+.index-container {
+    border-radius: 7px;
+    background: white;
+    border: 3px #ddd solid;
+    min-height: 140px;
+}
+
+.unknown-data {
+    opacity: 0.3;
+}

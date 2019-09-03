@@ -4,11 +4,12 @@ import dash_html_components as html
 from dash.dependencies import Output, Input
 
 from loader import load_data
-from generators import section, records_per_machine, time_per_machine, first, point_list, last, month_selector, machine_capacity, contexts#, uses
+from generators import section, records_per_machine, time_per_machine, first, point_list, last, month_selector, machine_capacity, contexts, quality_index#, uses
 from transform import shape_data
 
 records = load_data('uso_maquinas_2808.csv', shape_data)
 capacity = load_data('capacidad_maquinas_2019.csv', index_col=0)
+kpi = load_data('indicadores_calidad.csv')
 
 app = dash.Dash(__name__, meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}])
 server = app.server
@@ -54,6 +55,9 @@ app.layout = html.Div(children=[
     section('Uso por estudiantes', [
         html.Div(id='students-use')
     ]),
+    section('Indicadores de calidad', [
+        quality_index(kpi)
+    ], gray=True),
     last()
 ])
 
