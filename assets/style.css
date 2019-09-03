@@ -20,3 +20,19 @@
 .unknown-data {
     opacity: 0.3;
 }
+
+.rc-slider-handle {
+/* border: solid 2px #96dbfa; */
+border: solid 2px #002b3e;
+}
+
+.rc-slider-track {
+/* background-color: #abe2fb; */
+background-color: #005277;
+}
+
+.rc-slider-dot-active {
+/* border-color: #96dbfa; */
+border-color: #01374f;
+}
+  
