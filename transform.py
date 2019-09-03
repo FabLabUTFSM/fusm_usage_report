@@ -6,6 +6,8 @@ def fix_date_columns(dataframe):
     dataframe["Fecha ingreso"] = insert_cols[0]
     dataframe["Hora ingreso"] = insert_cols[1]
     dataframe['Fecha'].fillna(dataframe['Fecha ingreso'], inplace=True)
+    dataframe['Hora Termino'] = pd.to_datetime(dataframe['Hora Termino'])
+    dataframe['Hora Inicio'] = pd.to_datetime(dataframe['Hora Inicio'])
     dataframe.index = pd.to_datetime(dataframe["Marca temporal"], dayfirst=True)
     return dataframe.drop(columns=["Marca temporal"])
 

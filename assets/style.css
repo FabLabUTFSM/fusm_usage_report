@@ -5,3 +5,7 @@
 .section.is_gray {
     background: #ddd;
 }
+
+.slider-frame {
+    margin: 10%;
+}
