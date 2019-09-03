@@ -6,6 +6,7 @@ from dash.dependencies import Output, Input
 from loader import load_data
 from generators import section, records_per_machine, time_per_machine, first, point_list, last, month_selector, machine_capacity, contexts, quality_index#, uses
 from transform import shape_data
+from utils import month_range
 
 records = load_data('uso_maquinas_2808.csv', shape_data)
 capacity = load_data('capacidad_maquinas_2019.csv', index_col=0)
@@ -24,7 +25,8 @@ app.layout = html.Div(children=[
             'Se registra inicio y fin de la tarea.',
             'No se utilizará la información del material utilizado.',
             'Categorización de la máquina se hace por tipo, no por instancia.',
-            f'{len(records)} registros en total.'
+            f'{len(records[records.index.month > 3])} registros en total.',
+            html.Span(id='filtered-records')
         ]),
         month_selector(records, first_month=4)
     ], gray=True),
@@ -86,6 +88,10 @@ def contexts_use_content(months):
 @app.callback(Output('students-use', 'children'), [Input('month-range-slider', 'value')])
 def students_use_content(months):
     return contexts(records, months, level='Estudiante')
+
+@app.callback(Output('filtered-records', 'children'), [Input('month-range-slider', 'value')])
+def filtered_records_count(months):
+    return f'{len(records[records.index.month.isin(month_range(months))])} registros seleccionados'
 
 if __name__ == "__main__":
     app.run_server(debug=True)
