@@ -19,9 +19,20 @@ realizar en el proceso de ejecución del software y no directamente en los
 datos, de modo que el sistema siga compatible con la información directamente
 extraída del sistema.
 
-## Correr el programa y emitir informes
+## Entorno de desarrollo
 
-    # por definir
+Crearemos un entorno virtual de Python 3.7+ con su administrador de entorno
+favorito, luego instalamos los requerimientos...
+
+    git clone git@github.com:FabLabUTFSM/fusm_usage_report.git
+    python3 -m venv fusm_usage_report
+    cd fusm_usage_report
+    source ./bin/activate
+    pip install -r requirements.txt
+
+Para ejecutar la aplicación en el modo de desarrollo...
+
+    python ./app.py
 
 ## Desarrollo
 
