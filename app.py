@@ -8,7 +8,7 @@ from generators import section, records_per_machine, time_per_machine, first, po
 from transform import shape_data
 from utils import month_range
 
-records = load_data('uso_maquinas_2808.csv', shape_data)
+records = load_data('uso_maquinas_1111.csv', shape_data)
 capacity = load_data('capacidad_maquinas_2019.csv', index_col=0)
 kpi = load_data('indicadores_calidad.csv')
 
