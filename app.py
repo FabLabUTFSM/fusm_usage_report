@@ -8,7 +8,7 @@ from generators import section, records_per_machine, time_per_machine, first, po
 from transform import shape_data
 from utils import month_range
 
-records = load_data('uso_maquinas_1111.csv', shape_data)
+records = load_data('uso_maquinas_2111.csv', shape_data)
 capacity = load_data('capacidad_maquinas_2019.csv', index_col=0)
 kpi = load_data('indicadores_calidad.csv')
 
@@ -57,6 +57,9 @@ app.layout = html.Div(children=[
     section('Uso por estudiantes', [
         html.Div(id='students-use')
     ]),
+    section('Uso interno', [
+        html.Div(id='internal-use')
+    ]),
     section('Indicadores de calidad', [
         quality_index(kpi)
     ], gray=True),
@@ -88,6 +91,10 @@ def contexts_use_content(months):
 @app.callback(Output('students-use', 'children'), [Input('month-range-slider', 'value')])
 def students_use_content(months):
     return contexts(records, months, level='Estudiante')
+
+@app.callback(Output('internal-use', 'children'), [Input('month-range-slider', 'value')])
+def students_use_content(months):
+    return contexts(records, months, level='Interno')
 
 @app.callback(Output('filtered-records', 'children'), [Input('month-range-slider', 'value')])
 def filtered_records_count(months):
