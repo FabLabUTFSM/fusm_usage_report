@@ -1,0 +1,808 @@
+Marca temporal,Encargado de turno,Usuario de la máquina,Maquina usada,Tiempo de uso en minutos,Material usado,Comentarios,Contexto del uso,Hora Inicio,Hora Termino,El material utilizado fue:,"Si el material fue facilitado por FabLab, especificar cuanto se utilizó ",Quién solicito el trabajo?,Fecha,Semana
+22/03/2019 14:53:03,José Santibáñez,Sergio Martínez,Impresora 3D,120,PLA,,Estudiante/Proyecto Inscrito FabLab,,,,,,,12
+26/03/2019 15:41:42,Fernanda Silva,José Santibáñez,Impresora 3D,140,PLA,,Estudiante/Uso Personal,,,,,,,13
+27/03/2019 16:58:37,José Santibáñez,Octavio Jaques,Impresora 3D,126,PLA,,Estudiante/Uso Personal,,,,,,,13
+27/03/2019 17:06:00,José Santibáñez,Javier De la Cerda,Impresora 3D,160,PLA,,Estudiante/Uso Personal,,,,,,,13
+28/03/2019 11:05:44,José Santibáñez,José Santibáñez,Cortadora Laser,15,Acrilico,,Interno/Publicidad,,,,,,,13
+28/03/2019 16:27:29,Diego Vera,Camilo Saldias,Cortadora Laser,110,MDF,,Interno/Publicidad,,,,,,,13
+28/03/2019 16:28:09,José Santibáñez,Camilo Saldias,Cortadora Laser,120,MDF,,Interno/Publicidad,,,,,,,13
+28/03/2019 17:33:58,Pablo Albornoz,Octavio Jaques,Impresora 3D,79,PLA,,Estudiante/Uso Personal,,,,,,,13
+28/03/2019 17:34:27,Pablo Albornoz,Octavio Jaques,Impresora 3D,117,PLA,,Estudiante/Uso Personal,,,,,,,13
+1/04/2019 14:25:41,Pía Osses,Javier De la Cerda,Impresora 3D,160,PLA,,Estudiante/Uso Personal,,,,,,,14
+1/04/2019 15:00:50,Pía Osses,Pia Osses,Cortadora Laser,98,Acrilico,,Estudiante/Uso Personal,,,,,,,14
+1/04/2019 15:05:35,Pía Osses,Javier De la Cerda,Impresora 3D,171,PP,,Estudiante/Uso Personal,,,,,,,14
+1/04/2019 17:03:08,Pía Osses,Pia Osses,Cortadora Laser,73,Acrilico,,Estudiante/Uso Personal,,,,,,,14
+1/04/2019 18:19:10,José Santibáñez,Pablo Albornoz,Impresora 3D,144,PLA,,Estudiante/Uso Personal,,,,,,,14
+2/04/2019 15:30:14,Fernanda Silva,Eduardo Castillo,Torno,10,Aluminio,,Empresa/Pyme,,,,,,,14
+2/04/2019 19:07:25,Fernanda Silva,José Santibáñez,Cortadora Laser,113,MDF,,Interno/Publicidad,,,,,,,14
+3/04/2019 19:02:16,Diego Vera,Eduardo Castillo,Torno,245,Duraluminio y acero plata,,Empresa/Pyme,,,,,,,14
+4/04/2019 17:28:44,José Santibáñez,Camilo Saldias,Cortadora Laser,150,MDF,,Interno/Publicidad,,,,,,,14
+4/04/2019 19:55:32,Pablo Albornoz,Eduardo Castillo,Torno,70,Aluminio,,Empresa/Pyme,,,,,,,14
+4/04/2019 19:58:38,Pablo Albornoz,Eduardo Castillo,Torno,90,Aluminio,,Empresa/Pyme,,,,,,,14
+4/04/2019 19:59:25,Pablo Albornoz,Eduardo Castillo,Torno,184,Aluminio,,Empresa/Pyme,,,,,,,14
+4/04/2019 20:24:18,Pablo Albornoz,Javier De la Cerda,Impresora 3D,888,PLA,Tiempo acumulativo banquete,Interno/Publicidad,,,,,,,14
+4/04/2019 20:59:39,Pablo Albornoz,Camilo Saldias,Cortadora Laser,5,MDF,Muestra banquete,Interno/Publicidad,,,,,,,14
+5/04/2019 15:39:57,Javier de la Cerda,Eduardo Castillo,Torno,215,aluminio y acero,,Empresa/Pyme,,,,,,,14
+5/04/2019 15:40:21,Javier de la Cerda,Javier De la Cerda,Impresora 3D,58,PLA,,Estudiante/Uso Personal,,,,,,,14
+10/04/2019 17:20:57,José Santibáñez,José Santibáñez,Cirqoid,87,Placa cobre,Antena para ardila,Profesor/Académico/Financiado por Depto,,,,,,,15
+10/04/2019 18:48:51,Pablo Albornoz,Eduardo Castillo,Router CNC,153,Policarbonato,Policarbonato con machina de MDF para una caja,Estudiante/Uso Personal,,,,,,,15
+10/04/2019 18:52:14,Pablo Albornoz,José Santibáñez,Impresora 3D,217,PLA,RPI Telemática,Estudiante/Por Asignatura,,,,,,,15
+10/04/2019 18:52:47,Pablo Albornoz,Pablo Albornoz,Impresora 3D,22,PLA,RPI Telemática,Estudiante/Por Asignatura,,,,,,,15
+10/04/2019 18:53:44,Pablo Albornoz,Pablo Albornoz,Impresora 3D,164,PLA,RPI Telemática,Estudiante/Por Asignatura,,,,,,,15
+10/04/2019 18:54:45,Pablo Albornoz,Pablo Albornoz,Impresora 3D,136,PLA,RPI Telemática,Estudiante/Por Asignatura,,,,,,,15
+11/04/2019 12:17:50,José Santibáñez,José Santibáñez,Cirqoid,70,Placa  cobre,Antena para Ardila,Profesor/Académico/Financiado por Depto,,,,,,,15
+11/04/2019 15:26:56,José Santibáñez,José Santibáñez,Cirqoid,97,Placa Cobre,Antena Ardila,Profesor/Académico/Financiado por Depto,,,,,,,15
+11/04/2019 20:05:14,Diego Vera,Diego Vera,Router CNC,65,Acrilico,"Corte de dos piezas cuadradas de 11 [cm], por error del operador (Diego Vera) se rompió uno de los instrumentos para setear la altura en el eje Z.",Estudiante/Uso Personal,,,,,,,15
+11/04/2019 20:21:19,Pablo Albornoz,Pablo Albornoz,Impresora 3D,65,PLA,Zarko Kuljis,Estudiante/Uso Personal,,,,,,,15
+11/04/2019 20:21:59,Pablo Albornoz,Pablo Albornoz,Impresora 3D,82,PLA,Zarko Kuljis,Estudiante/Uso Personal,,,,,,,15
+12/04/2019 19:01:40,Pablo Albornoz,Pablo Albornoz,Impresora 3D,56,PLA,,Estudiante/Uso Personal,,,,,,,15
+12/04/2019 19:02:27,Pablo Albornoz,Pablo Albornoz,Impresora 3D,330,PLA,,Estudiante/Uso Personal,,,,,,,15
+17/04/2019 15:55:54,José Santibáñez,Diego Vera,Cortadora Laser,153,Cartón Piedra,,Estudiante/Uso Personal,,,,,,,16
+18/04/2019 9:50:55,Diego Vera,Diego Vera,Cortadora Laser,80,Cartón piedra,,Estudiante/Uso Personal,,,,,,,16
+18/04/2019 13:12:22,José Santibáñez,Diego Vera,Cortadora Laser,40,Cartón Piedra,,Estudiante/Uso Personal,,,,,,,16
+18/04/2019 17:42:11,Pablo Albornoz,José Santibáñez,Cirqoid,144,PCB Fibra de Vidrio,Jorge Ardila,Profesor/Académico/Financiado por Depto,,,,,,,16
+22/04/2019 19:08:37,José Santibáñez,Pablo Albornoz,Impresora 3D,233,PLA,,Estudiante/Uso Personal,,,,,,,17
+25/04/2019 17:39:34,Pablo Albornoz,Eduardo Castillo,Impresora 3D,420,PLA,Trabajo de memoria,Estudiante/Proyecto Inscrito FabLab,,,,,,,17
+25/04/2019 17:48:23,Pablo Albornoz,Javier De la Cerda,Impresora 3D,100,PETG,,Estudiante/Uso Personal,,,,,,,17
+25/04/2019 17:52:05,Pablo Albornoz,Javier De la Cerda,Impresora 3D,46,PETG,Impresión fallida,Estudiante/Uso Personal,,,,,,,17
+26/04/2019 21:06:00,Pablo Albornoz,Alexis Jara,Impresora 3D,13,PLA,Fallo de impresión,Estudiante/Proyecto Inscrito FabLab,,,,,,,17
+30/04/2019 17:25:38,José Santibáñez,Javier De la Cerda,Impresora 3D,124,PETG,,Estudiante/Uso Personal,,,,,,,18
+30/04/2019 20:21:25,Camilo Saldías,José Santibáñez,Impresora 3D,37,PLA,,Estudiante/Uso Personal,,,,,,,18
+30/04/2019 20:22:01,Camilo Saldías,José Santibáñez,Impresora 3D,154,PLA,,Estudiante/Uso Personal,,,,,,,18
+30/04/2019 20:22:40,Camilo Saldías,José Santibáñez,Impresora 3D,136,PLA,,Estudiante/Uso Personal,,,,,,,18
+30/04/2019 20:24:39,Camilo Saldías,Javier De la Cerda,Impresora 3D,184,PETG,El término de la impresión es estimado de la misma impresora 3D,Estudiante/Uso Personal,,,,,,,18
+6/05/2019 19:24:02,José Santibáñez,Javier De la Cerda,Impresora 3D,233,PETG,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:25:06,José Santibáñez,José Santibáñez,Impresora 3D,302,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:26:51,José Santibáñez,Javier De la Cerda,Impresora 3D,88,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:28:01,José Santibáñez,Javier De la Cerda,Impresora 3D,75,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:28:50,José Santibáñez,Javier De la Cerda,Impresora 3D,175,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:29:27,José Santibáñez,Javier De la Cerda,Impresora 3D,148,PETG,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:30:10,José Santibáñez,Javier De la Cerda,Impresora 3D,264,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:30:45,José Santibáñez,Javier De la Cerda,Impresora 3D,204,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:31:29,José Santibáñez,Javier De la Cerda,Impresora 3D,203,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:32:15,José Santibáñez,Javier De la Cerda,Impresora 3D,142,PETG,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:33:00,José Santibáñez,Diego Vera,Impresora 3D,48,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:33:41,José Santibáñez,Javier De la Cerda,Impresora 3D,25,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:34:12,José Santibáñez,Javier De la Cerda,Impresora 3D,110,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:34:51,José Santibáñez,Javier De la Cerda,Impresora 3D,74,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:36:07,José Santibáñez,Javier De la Cerda,Impresora 3D,60,PETG,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:37:07,José Santibáñez,Javier De la Cerda,Impresora 3D,128,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:38:04,José Santibáñez,Pia Osses,Impresora 3D,98,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:39:25,José Santibáñez,Javier De la Cerda,Impresora 3D,129,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:41:06,José Santibáñez,Javier De la Cerda,Impresora 3D,137,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:41:52,José Santibáñez,Javier De la Cerda,Impresora 3D,3,PLA,,Estudiante/Uso Personal,,,,,,,19
+6/05/2019 19:42:59,José Santibáñez,Javier De la Cerda,Impresora 3D,39,PLA,,Estudiante/Uso Personal,,,,,,,19
+7/05/2019 12:12:24,José Santibáñez,Javier De la Cerda,Impresora 3D,39,PLA,,Estudiante/Uso Personal,17:46:00,18:25:00,,,,,19
+7/05/2019 12:14:35,José Santibáñez,Javier De la Cerda,Impresora 3D,37,PLA,,Interno/Publicidad,18:40:00,19:17:00,,,,,19
+7/05/2019 12:15:12,José Santibáñez,Javier De la Cerda,Impresora 3D,98,PLA,,Estudiante/Uso Personal,18:27:00,20:05:00,,,,,19
+7/05/2019 12:16:08,José Santibáñez,Javier De la Cerda,Impresora 3D,335,PLA,,Estudiante/Uso Personal,17:35:00,23:10:00,,,,,19
+7/05/2019 12:16:49,José Santibáñez,Javier De la Cerda,Impresora 3D,91,PLA,,Estudiante/Uso Personal,18:29:00,20:00:00,,,,,19
+7/05/2019 12:17:29,José Santibáñez,Javier De la Cerda,Impresora 3D,18,PLA,,Estudiante/Uso Personal,20:42:00,21:00:00,,,,,19
+7/05/2019 12:18:15,José Santibáñez,Javier De la Cerda,Impresora 3D,18,PLA,,Estudiante/Uso Personal,20:42:00,21:00:00,,,,,19
+7/05/2019 17:58:34,Fernanda Silva,Sergio Martínez,Impresora 3D,130,PLA,,Estudiante/Uso Personal,13:12:00,15:22:00,,,,,19
+7/05/2019 17:59:52,Fernanda Silva,Javier De la Cerda,Impresora 3D,17,PLA,Calibración,Interno/Mantenimiento,11:54:00,12:11:00,,,,,19
+7/05/2019 18:00:35,Fernanda Silva,Javier De la Cerda,Impresora 3D,150,PLA,,Estudiante/Uso Personal,14:50:00,17:20:00,,,,,19
+7/05/2019 18:57:11,Camilo Saldías,Javier De la Cerda,Impresora 3D,43,PLA,"Proyecto personal, PLAx2",Estudiante/Uso Personal,17:53:00,18:36:00,,,,,19
+8/05/2019 17:52:28,José Santibáñez,Diego Vera,Cortadora Laser,153,Carton piedra,,Estudiante/Uso Personal,13:20:00,15:53:00,,,,,19
+8/05/2019 17:53:03,José Santibáñez,Diego Vera,Cortadora Laser,124,Carton piedra,,Estudiante/Uso Personal,17:20:00,19:24:00,,,,,19
+8/05/2019 17:53:39,José Santibáñez,Diego Vera,Cortadora Laser,40,Carton piedra,,Estudiante/Uso Personal,11:50:00,12:30:00,,,,,19
+8/05/2019 17:54:13,José Santibáñez,Diego Vera,Cortadora Laser,12,Carton piedra,,Estudiante/Uso Personal,14:50:00,15:02:00,,,,,19
+8/05/2019 17:54:53,José Santibáñez,Diego Vera,Cortadora Laser,30,Acrilico,,Interno/Publicidad,11:45:00,12:15:00,,,,,19
+8/05/2019 17:55:31,José Santibáñez,Diego Vera,Cortadora Laser,20,Acrilico,,Interno/Publicidad,12:35:00,12:55:00,,,,,19
+8/05/2019 17:56:39,José Santibáñez,Diego Vera,Cortadora Laser,160,Acrilico,,Interno/Publicidad,16:40:00,19:20:00,,,,,19
+8/05/2019 17:59:31,José Santibáñez,Eduardo Castillo,Torno,113,Acero,,Empresa/Pyme,9:41:00,11:34:00,,,,,19
+9/05/2019 13:55:45,José Santibáñez,Javier De la Cerda,Impresora 3D,60,PLA,,Interno/Publicidad,12:00:00,13:00:00,,,,,19
+9/05/2019 14:03:10,José Santibáñez,Diego Vera,Router CNC,40,Terciado,Muestra para grabar videos IPST,Interno/Publicidad,12:30:00,13:10:00,,,,,19
+9/05/2019 14:04:49,José Santibáñez,Eduardo Castillo,Torno,170,Acero,,Empresa/Pyme,10:10:00,13:00:00,,,,,19
+9/05/2019 17:48:14,Camilo Saldías,Javier De la Cerda,Impresora 3D,204,PLA,"Personal, PLAx2",Estudiante/Uso Personal,12:42:00,16:06:00,,,,,19
+9/05/2019 17:50:40,Diego Vera,Javier De la Cerda,Impresora 3D,103,PLA,,Interno/Publicidad,12:40:00,14:23:00,,,,,19
+9/05/2019 17:51:24,Camilo Saldías,Javier De la Cerda,Impresora 3D,5,PLA,Impresión fallida,Interno/Publicidad,15:37:00,15:42:00,,,,,19
+9/05/2019 17:51:57,Camilo Saldías,Javier De la Cerda,Impresora 3D,82,PLA,,Interno/Publicidad,15:48:00,17:10:00,,,,,19
+13/05/2019 19:03:15,Pía Osses,Diego Vera,Cortadora Laser,70,cartón piedra,,Estudiante/Uso Personal,11:00:00,12:10:00,,,,,20
+13/05/2019 19:04:02,Pía Osses,Diego Vera,Cortadora Laser,120,cartón piedra,,Estudiante/Uso Personal,14:50:00,16:50:00,,,,,20
+13/05/2019 20:43:05,José Santibáñez,Pia Osses,Impresora 3D,629,PLA,Quedo pausada hasta el dia siguiente,Estudiante/Uso Personal,10:00:00,20:29:00,,,,,20
+14/05/2019 19:21:23,Camilo Saldías,Camilo Saldias,Cortadora Laser,20,MDF,"Uso de sala de cortadora láser por 1.5 Hrs, de 17:20 a 18:50 Hrs.",Interno/Capacitación/USM,16:00:00,16:20:00,Del FabLab,Retazo de MDF de reciclaje,Camilo Saldías,,20
+15/05/2019 12:54:19,Pablo Albornoz,Pia Osses,Impresora 3D,600,PLA,Trabajo terminado Martes 14,Estudiante/Uso Personal,10:30:00,20:30:00,Del FabLab,,Pía Osses,,20
+15/05/2019 17:27:46,José Santibáñez,Jaime Rodriguez,Impresora 3D,33,ABS,,Estudiante/Proyecto Inscrito FabLab,16:40:00,17:13:00,Facilitado por quien solicito el trabajo,,Jaime Rodriguez,,20
+16/05/2019 13:06:32,Pablo Albornoz,Eduardo Castillo,Torno,258,HMW,Trabajo ingresado sin fecha,Empresa/Pyme,13:42:00,18:00:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,20
+16/05/2019 13:07:51,Pablo Albornoz,Eduardo Castillo,Torno,4,Polipropileno,10/05/19,Empresa/Pyme,11:30:00,11:34:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,20
+16/05/2019 13:08:56,Pablo Albornoz,Leonardo Cornejo,Torno,195,Acero y Polipropileno,14/05/19,Empresa/Pyme,15:25:00,18:40:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,,20
+16/05/2019 15:02:28,Pablo Albornoz,Pia Osses,Cortadora Laser,34,Terciado,X252,Estudiante/Uso Personal,13:54:00,14:28:00,Facilitado por quien solicito el trabajo,,Pía Osses,,20
+17/05/2019 16:06:56,Diego Vera,Eduardo Castillo,Torno,154,Bronce,Uso en conjunto con Tomas Montt,Estudiante/Uso Personal,11:06:00,13:40:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,20
+17/05/2019 16:10:53,Diego Vera,Pia Osses,Cortadora Laser,135,MDF,,Interno/Publicidad,11:45:00,14:00:00,Del FabLab,2 trozos de 385255xx3 y 290x185*3 [mm],Maximiliano Rivera,,20
+22/05/2019 17:14:00,José Santibáñez,Leonardo Cornejo,Torno,180,Aluminio,,Empresa/Pyme,14:00:00,17:00:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,,21
+22/05/2019 17:21:43,Diego Vera,Pia Osses,Cortadora Laser,97,MDF,,Interno/Publicidad,12:07:00,13:44:00,Del FabLab,250 cm2,Pia Osses,,21
+23/05/2019 13:10:59,José Santibáñez,José Santibáñez,Cirqoid,92,Placa cobre,Hice una placa para mostrar,Interno/Publicidad,11:34:00,13:06:00,Del FabLab,1 placa pequeña del kit de la Cirqoid,José Santibáñez,,21
+23/05/2019 18:45:35,Pablo Albornoz,Diego Vera,Cortadora Laser,165,MDF,22/05/2019,Estudiante/Uso Personal,9:35:00,12:20:00,Facilitado por quien solicito el trabajo,,Diego Vera,,21
+23/05/2019 18:49:53,Pablo Albornoz,José Santibáñez,Cortadora Laser,6,MDF,22/05/2019 se medirán las piezas luego,Estudiante/Uso Personal,14:39:00,14:45:00,Del FabLab,no especificado,José Santibáñez,,21
+23/05/2019 18:51:31,Pablo Albornoz,Diego Vera,Cortadora Laser,39,MDF,22/05/2019,Estudiante/Uso Personal,14:45:00,15:24:00,Facilitado por quien solicito el trabajo,,Diego Vera,,21
+23/05/2019 18:54:19,Pablo Albornoz,José Santibáñez,Cortadora Laser,4,MDF,,Estudiante/Uso Personal,18:30:00,18:34:00,Del FabLab,20x40,José Santibáñez,,21
+23/05/2019 19:00:07,Pablo Albornoz,Leonardo Cornejo,Torno,35,Aluminio,,Empresa/Pyme,13:20:00,13:55:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,,21
+28/05/2019 20:52:23,Camilo Saldías,Camilo Saldias,Cortadora Laser,20,MDF,"Capacitación de 1:30 Hrs, 17:20 - 18:50",Interno/Capacitación/USM,18:30:00,18:50:00,Del FabLab,,Camilo Saldias,,22
+30/05/2019 12:30:29,Diego Vera,José Santibáñez,Impresora 3D,35,PLA,,Interno/Capacitación/USM,16:55:00,17:30:00,Del FabLab,10,José Santibáñez,,22
+30/05/2019 13:42:34,José Santibáñez,Leonardo Cornejo,Torno,180,Aluminio,,Empresa/Pyme,10:20:00,13:20:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,,22
+31/05/2019 17:25:01,Fernanda Silva,Daniel Maurel,Router CNC,60,Terciado,,Estudiante/Uso Personal,14:30:00,15:30:00,Facilitado por quien solicito el trabajo,,Daniel Maurel,,22
+31/05/2019 19:06:10,Fernanda Silva,Alfredo Gallegos,Cortadora Laser,86,Cartón Piedra,Ergón,Estudiante/Proyecto Inscrito FabLab,17:14:00,18:40:00,Facilitado por quien solicito el trabajo,,Alfredo Gallegos,,22
+3/06/2019 18:33:33,José Santibáñez,Francisco Fernandez,Impresora 3D,14,PLA,,Para el mueble de la cirqoid,17:18:00,17:32:00,Del FabLab,5 gramos,Francisco Fernandez,,23
+4/06/2019 19:11:40,José Santibáñez,Francisco Fernandez,Impresora 3D,14,PLA,,piezas para el mueble de la cirqoid,17:18:00,17:32:00,Del FabLab,10,Francisco Fernandez,,23
+4/06/2019 19:19:21,José Santibáñez,Eduardo Castillo,Torno,172,technygen,,Empresa/Pyme,13:30:00,16:22:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,23
+4/06/2019 19:20:09,José Santibáñez,Eduardo Castillo,Torno,165,Technygen,,Empresa/Pyme,17:15:00,20:00:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,23
+5/06/2019 15:50:48,Pablo Albornoz,Francisco Fernandez,Impresora 3D,102,PLA,Mueble cirqoid,Interno/Publicidad,17:18:00,19:00:00,Del FabLab,por confirmar,Francisco Fernandez,,23
+5/06/2019 15:52:22,Pablo Albornoz,Javier De la Cerda,Impresora 3D,222,PLA,,Estudiante/Uso Personal,16:18:00,20:00:00,Facilitado por quien solicito el trabajo,,Javier De la Cerda,,23
+5/06/2019 15:54:08,Pablo Albornoz,Diego Vera,Cortadora Laser,90,Cartón Pluma,,Estudiante/Uso Personal,9:10:00,10:40:00,Facilitado por quien solicito el trabajo,,Diego Vera,,23
+5/06/2019 15:54:58,Pablo Albornoz,Diego Vera,Cortadora Laser,210,Cartón Pluma,,Estudiante/Uso Personal,13:30:00,17:00:00,Facilitado por quien solicito el trabajo,,Diego Vera,,23
+6/06/2019 17:47:25,Camilo Saldías,Javier De la Cerda,Impresora 3D,60,PLA,,Estudiante/Uso Personal,16:02:00,17:02:00,Del FabLab,,Javier De La Cerda,,23
+6/06/2019 19:19:41,Pablo Albornoz,Eduardo Castillo,Torno,75,Inox 304,04/06,Empresa/Pyme,14:00:00,15:15:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,23
+6/06/2019 19:20:32,Pablo Albornoz,Eduardo Castillo,Torno,210,Inox 304,04/06,Empresa/Pyme,16:00:00,19:30:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,23
+6/06/2019 19:21:49,Pablo Albornoz,Leonardo Cornejo,Torno,65,"Aluminio, Inox 304",05/06,Empresa/Pyme,11:25:00,12:30:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,,23
+6/06/2019 19:22:52,Pablo Albornoz,Eduardo Castillo,Torno,270,Inox 304,05/06,Empresa/Pyme,13:45:00,18:15:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,23
+6/06/2019 19:23:55,Pablo Albornoz,Leonardo Cornejo,Torno,190,Inox 304,,Empresa/Pyme,9:40:00,12:50:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,,23
+6/06/2019 19:24:49,Pablo Albornoz,Eduardo Castillo,Torno,60,Inox 304,,Empresa/Pyme,13:00:00,14:00:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,23
+6/06/2019 19:25:45,Pablo Albornoz,Eduardo Castillo,Torno,235,"Technygen, Duraluminio",,Empresa/Pyme,15:00:00,18:55:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,23
+7/06/2019 12:21:48,Diego Vera,Eduardo Castillo,Torno,45,Technygen,,Empresa/Pyme,12:00:00,12:45:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,23
+7/06/2019 12:27:01,José Santibáñez,Eduardo Castillo,Torno,33,Duraluminio,,Empresa/Pyme,14:28:00,15:01:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,,23
+7/06/2019 12:41:30,José Santibáñez,Diego Vera,Router CNC,200,Pino,,Interno/Capacitación/USM,14:00:00,17:20:00,Del FabLab,,Diego Vera,,23
+7/06/2019 12:44:58,José Santibáñez,Diego Vera,Router CNC,200,Pino,,Interno/Capacitación/USM,14:00:00,17:20:00,Del FabLab,,Diego Vera,,23
+7/06/2019 12:45:39,José Santibáñez,Diego Vera,Router CNC,190,Pino,,Interno/Capacitación/USM,14:00:00,17:10:00,Del FabLab,,Diego Vera,,23
+7/06/2019 12:46:21,José Santibáñez,Diego Vera,Router CNC,190,Pino,,Interno/Capacitación/USM,14:00:00,17:10:00,Del FabLab,,Diego Vera,,23
+10/06/2019 18:57:44,José Santibáñez,José Santibáñez,Impresora 3D,30,PLA,,Interno/Capacitación/USM,15:20:00,15:50:00,Del FabLab,10 g,José Santibáñez,,24
+10/06/2019 19:01:41,José Santibáñez,Aaron Checura,Impresora 3D,70,PLA,,Estudiante/Uso Personal,17:20:00,18:30:00,Del FabLab,3 g,Aaron Checura,,24
+10/06/2019 19:02:36,José Santibáñez,Aaron Checura,Impresora 3D,26,PLA,,Estudiante/Uso Personal,18:20:00,18:46:00,Del FabLab,2 g,Aaron Checura,,24
+11/06/2019 17:23:04,Fernanda Silva,José Santibáñez,Impresora 3D,242,PLA,,Desarrollo Interno,11:35:00,15:37:00,Del FabLab,35 gramos,FabLab,11/06/2019,24
+11/06/2019 17:24:32,Fernanda Silva,José Santibáñez,Impresora 3D,105,PLA,,Desarrollo Interno,11:35:00,13:20:00,Del FabLab,10 gramos,FabLab,11/06/2019,24
+11/06/2019 19:00:07,Pablo Albornoz,José Santibáñez,Impresora 3D,240,PLA,,Interno/Publicidad,14:19:00,18:19:00,Del FabLab,35g,FabLab,11/06/2019,24
+11/06/2019 19:02:32,Pablo Albornoz,Eduardo Castillo,Router CNC,85,MDF,,Estudiante/Uso Personal,17:00:00,18:25:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,11/06/2019,24
+11/06/2019 19:03:45,Pablo Albornoz,Diego Vera,Cortadora Laser,152,Cartón Forrado,,Estudiante/Uso Personal,10:28:00,13:00:00,Facilitado por quien solicito el trabajo,,Diego Vera,11/06/2019,24
+11/06/2019 19:05:02,Pablo Albornoz,José Santibáñez,Cortadora Laser,13,MDF,,Interno/Publicidad,13:20:00,13:33:00,Del FabLab,no especificado,FabLab,11/06/2019,24
+11/06/2019 19:06:09,Pablo Albornoz,José Santibáñez,Cortadora Laser,81,MDF,,Interno/Publicidad,14:39:00,16:00:00,Del FabLab,no especificado,FabLab,11/06/2019,24
+11/06/2019 21:17:52,Pablo Albornoz,Camilo Saldias,Cortadora Laser,62,Vidrio,"Se daño el auto-foco de la máquina X252, por lo que se dejó deshabilitado",Estudiante/Uso Personal,20:15:00,21:17:00,Facilitado por quien solicito el trabajo,,Pablo Albornoz,11/06/2019,24
+12/06/2019 18:21:03,José Santibáñez,Pablo Albornoz,Cortadora Laser,50,MDF,,Estudiante/Por Asignatura,15:20:00,16:10:00,Facilitado por quien solicito el trabajo,,Maite mejias,12/06/2019,24
+12/06/2019 18:22:15,José Santibáñez,Pablo Albornoz,Cortadora Laser,63,Madera de balsa,,Estudiante/Uso Personal,16:55:00,17:58:00,Facilitado por quien solicito el trabajo,,Diego rozaz,12/06/2019,24
+12/06/2019 18:27:04,José Santibáñez,Pia Osses,Impresora 3D,180,PLA,,Interno/Capacitación/USM,14:30:00,17:30:00,Del FabLab,,Pia osses,12/06/2019,24
+12/06/2019 19:14:05,Pablo Albornoz,Carolina Gutierrez,Impresora 3D,121,PLA,9g de material,Estudiante/Proyecto Inscrito FabLab,11:45:00,13:46:00,Del FabLab,,Carolina Gutierrez,12/06/2019,24
+12/06/2019 19:16:00,Diego Vera,Pia Osses,Impresora 3D,186,PLA,,Estudiante/Uso Personal,17:44:00,20:50:00,Del FabLab,,Pia Osses,12/06/2019,24
+12/06/2019 19:20:36,Diego Vera,Alexis Contreras,Cortadora Laser,45,Madera Balsa,,Estudiante/Uso Personal,12:30:00,13:15:00,Facilitado por quien solicito el trabajo,,Alexis Contreras,12/06/2019,24
+12/06/2019 19:21:29,Diego Vera,Diego Vera,Cortadora Laser,60,Carton Pluma,,Estudiante/Uso Personal,18:10:00,19:10:00,Facilitado por quien solicito el trabajo,,Diego  Vera,12/06/2019,24
+12/06/2019 19:23:15,Diego Vera,Eduardo Castillo,Torno,45,Technigen,,Estudiante/Uso Personal,9:26:00,10:11:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,10/06/2019,24
+13/06/2019 12:41:05,José Santibáñez,Diego Rozas,Cortadora Laser,57,Madera Balsa,Fue para el concurso de estructuras sismicas,Estudiante/Uso Personal,11:37:00,12:34:00,Facilitado por quien solicito el trabajo,,Diego Rozaz,13/06/2019,24
+13/06/2019 19:34:33,Pablo Albornoz,Pablo Albornoz,Cortadora Laser,170,Vidrio,Vasos día del padre,Funcionario/Uso Personal,14:10:00,17:00:00,Facilitado por quien solicito el trabajo,,Leslie Perez (Ing. Minas),13/06/2019,24
+13/06/2019 19:39:04,Pablo Albornoz,Diego Rozas,Cortadora Laser,54,Madera de balsa,Sismo resistente,Estudiante/Uso Personal,17:23:00,18:17:00,Facilitado por quien solicito el trabajo,,Diego Rozas,13/06/2019,24
+13/06/2019 19:40:07,Pablo Albornoz,Pablo Albornoz,Cortadora Laser,39,Cartulina,Cajas,Estudiante/Uso Personal,18:21:00,19:00:00,Facilitado por quien solicito el trabajo,,Pablo Albornoz,13/06/2019,24
+13/06/2019 19:45:54,Pablo Albornoz,Javier De la Cerda,Router CNC,69,Terciado,Proyectos IDP,Estudiante/Uso Personal,18:20:00,19:29:00,Facilitado por quien solicito el trabajo,,Dana Cantillana,13/06/2019,24
+14/06/2019 18:09:55,Camilo Saldías,Javier De la Cerda,Router CNC,96,Terciado,Se utilizó madera destinada a capacitaciones de Router CNC.,Interno/Capacitación/USM,14:50:00,16:26:00,Del FabLab,,Javier De La Cerda,14/06/2019,24
+14/06/2019 18:14:39,José Santibáñez,Aaron Checura,Impresora 3D,223,PLA,,Estudiante/Uso Personal,11:40:00,15:23:00,Del FabLab,46 g,Aaron Checura,14/06/2019,24
+14/06/2019 18:17:45,José Santibáñez,Aaron Checura,Impresora 3D,227,PLA,,Estudiante/Uso Personal,12:10:00,15:57:00,Del FabLab,35 g,Aaron Checura,14/06/2019,24
+14/06/2019 18:21:58,José Santibáñez,Paloma Maldonado,Impresora 3D,76,PLA,,Estudiante/Uso Personal,13:34:00,14:50:00,Facilitado por quien solicito el trabajo,,Paloma Maldonado,14/06/2019,24
+14/06/2019 18:23:40,José Santibáñez,José Santibáñez,Impresora 3D,128,PLA,,Estudiante/Uso Personal,16:14:00,18:22:00,Del FabLab,16 g,José Santibáñez,14/06/2019,24
+14/06/2019 18:39:37,José Santibáñez,José Salinas,Impresora 3D,138,PLA,,Estudiante/Por Asignatura,13:30:00,15:48:00,Del FabLab,30 g,José Salinas,12/06/2019,24
+14/06/2019 20:57:13,Pablo Albornoz,José Santibáñez,Impresora 3D,204,PLA,Pieza de regalo para banquete de profesores 20/Junio,Desarrollo Interno,17:06:00,20:30:00,Del FabLab,,Jose Santibáñez,14/06/2019,24
+18/06/2019 12:26:25,Fernanda Silva,José Santibáñez,Impresora 3D,27,PLA,,Estudiante/Uso Personal,16:47:00,17:14:00,Del FabLab,2 gramos,José Santibañez,14/06/2019,24
+18/06/2019 12:28:41,Fernanda Silva,Aaron Checura,Impresora 3D,261,PLA,,Estudiante/Uso Personal,14:30:00,18:51:00,Del FabLab,28 gramos,Aaron Checura,17/06/2019,25
+18/06/2019 12:30:18,Fernanda Silva,Alejandra Cona,Impresora 3D,187,PLA,,Estudiante/Uso Personal,16:10:00,19:17:00,Del FabLab,14 gramos,Alejandra Cona,17/06/2019,25
+18/06/2019 12:31:19,Fernanda Silva,Alejandra Cona,Impresora 3D,201,PLA,,Estudiante/Uso Personal,16:01:00,19:22:00,Del FabLab,14 gramos,Alejandra Cona,17/06/2019,25
+18/06/2019 12:33:21,Fernanda Silva,Pablo Albornoz,Cortadora Laser,20,MDF,,Interno/Publicidad,12:30:00,12:50:00,Del FabLab,,Pablo Albornoz,17/06/2019,25
+18/06/2019 12:35:26,Fernanda Silva,José Santibáñez,Cortadora Laser,2,MDF,,Estudiante/Uso Personal,15:23:00,15:25:00,Facilitado por quien solicito el trabajo,,José Santibáñez,17/06/2019,25
+18/06/2019 12:37:04,Fernanda Silva,Diego Vera,Cortadora Laser,80,Cartón Piedra,,Estudiante/Uso Personal,16:20:00,17:40:00,Facilitado por quien solicito el trabajo,,Diego Vera,17/06/2019,25
+18/06/2019 19:14:10,Camilo Saldías,José Santibáñez,Impresora 3D,337,PLA,,Estudiante/Uso Personal,13:12:00,18:49:00,Del FabLab,33g,Jose Santibáñez,18/06/2019,25
+18/06/2019 19:14:50,Camilo Saldías,Fernanda Silva,Impresora 3D,285,PLA,,Estudiante/Uso Personal,13:15:00,18:00:00,Del FabLab,42,Fernanda Silva,18/06/2019,25
+18/06/2019 19:15:38,Camilo Saldías,Derick Vidal,Impresora 3D,67,PLA,Trabajo de Memoria,Estudiante/Por Asignatura,16:23:00,17:30:00,Del FabLab,9g,Derick Vidal,18/06/2019,25
+18/06/2019 19:16:45,Camilo Saldías,Derick Vidal,Impresora 3D,72,PLA,Trabajo de Memoria,Estudiante/Por Asignatura,18:03:00,19:15:00,Del FabLab,6g,Derick Vidal,18/06/2019,25
+19/06/2019 19:26:39,José Santibáñez,Diego Vera,Cortadora Laser,5,Carton piedra,,Estudiante/Uso Personal,19:15:00,19:20:00,Facilitado por quien solicito el trabajo,,Diego Vera,19/06/2019,25
+20/06/2019 19:08:35,Pablo Albornoz,Derick Vidal,Impresora 3D,6,PLA,memoria,Estudiante/Por Asignatura,19:19:00,19:25:00,Facilitado por quien solicito el trabajo,,Derick Vidal,18/06/2019,25
+20/06/2019 19:09:53,Pablo Albornoz,Felipe Lopez,Impresora 3D,329,PLA,,Estudiante/Uso Personal,11:36:00,17:05:00,Del FabLab,40g,Felipe Lopez,19/06/2019,25
+20/06/2019 19:10:54,Pablo Albornoz,Felipe Lopez,Impresora 3D,384,PLA,,Estudiante/Uso Personal,12:36:00,19:00:00,Del FabLab,66g,Felipe Lopez,19/06/2019,25
+20/06/2019 19:12:10,Pablo Albornoz,Diego Vera,Impresora 3D,160,PLA,consultar gramaje y si pagó,Estudiante/Uso Personal,11:50:00,14:30:00,Del FabLab,-,Diego Vera,19/06/2019,25
+20/06/2019 19:13:22,Pablo Albornoz,Felipe Lopez,Impresora 3D,27,PLA,,Estudiante/Uso Personal,17:13:00,17:40:00,Del FabLab,2g,Felipe Lopez,19/06/2019,25
+20/06/2019 19:15:09,Pablo Albornoz,Diego Vera,Impresora 3D,365,PLA,consultar gramaje y si pagó,Estudiante/Uso Personal,10:00:00,16:05:00,Del FabLab,,Diego Vera,19/06/2019,25
+20/06/2019 19:16:02,Pablo Albornoz,Diego Vera,Impresora 3D,362,PLA,consultar gramaje y si pagó,Estudiante/Uso Personal,10:00:00,16:02:00,Del FabLab,,Diego Vera,19/06/2019,25
+20/06/2019 19:17:51,Pablo Albornoz,José Santibáñez,Impresora 3D,20,PLA,,Estudiante/Uso Personal,11:36:00,11:56:00,Del FabLab,1g,José Santibáñez,20/06/2019,25
+20/06/2019 19:19:51,Pablo Albornoz,Alejandra Cona,Impresora 3D,198,PLA,se pagó?,Estudiante/Uso Personal,13:06:00,16:24:00,Del FabLab,19g,Alejandra Cona,20/06/2019,25
+20/06/2019 19:28:09,Pablo Albornoz,Derick Vidal,Impresora 3D,107,PLA,memoria,Estudiante/Por Asignatura,17:28:00,19:15:00,Facilitado por quien solicito el trabajo,,Derick Vidal,20/06/2019,25
+20/06/2019 19:31:09,Pablo Albornoz,José Santibáñez,Cortadora Laser,1,MDF,,Estudiante/Uso Personal,10:56:00,10:57:00,Del FabLab,87x85x3mm,José Santibáñez,20/06/2019,25
+20/06/2019 19:33:54,Pablo Albornoz,Pia Osses,Cortadora Laser,48,pino,x500III,Estudiante/Uso Personal,11:00:00,11:48:00,Facilitado por quien solicito el trabajo,,Gabriel,20/06/2019,25
+20/06/2019 19:34:55,Pablo Albornoz,Pia Osses,Cortadora Laser,68,pino,x500III,Estudiante/Uso Personal,12:24:00,13:32:00,Facilitado por quien solicito el trabajo,,Gabriel,20/06/2019,25
+20/06/2019 19:36:53,Pablo Albornoz,Eduardo Castillo,Router CNC,130,Terciado,PRS Standard,Estudiante/Uso Personal,14:50:00,17:00:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,17/06/2019,25
+20/06/2019 19:39:51,Pablo Albornoz,Leonardo Cornejo,Torno,137,Aluminio,,Empresa/Pyme,10:28:00,12:45:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,17/06/2019,25
+20/06/2019 19:40:32,Pablo Albornoz,Leonardo Cornejo,Torno,110,Aluminio,,Empresa/Pyme,14:40:00,16:30:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,17/06/2019,25
+20/06/2019 20:14:12,Pablo Albornoz,José Santibáñez,Cirqoid,114,PCB,,Estudiante/Proyecto Inscrito FabLab,14:03:00,15:57:00,Del FabLab,1 placa,Ergón,13/06/2019,24
+20/06/2019 20:15:07,Pablo Albornoz,José Santibáñez,Cirqoid,166,PCB,,Estudiante/Proyecto Inscrito FabLab,15:09:00,17:55:00,Del FabLab,1 placa,Ergón,18/06/2019,25
+21/06/2019 16:03:01,José Santibáñez,Alejandra Cona,Cortadora Laser,20,Acrilico,,Estudiante/Uso Personal,12:50:00,13:10:00,Facilitado por quien solicito el trabajo,,Alejandra Cona,21/06/2019,25
+21/06/2019 16:04:14,José Santibáñez,Alejandra Cona,Cortadora Laser,20,Acrilico,,Estudiante/Uso Personal,13:30:00,13:50:00,Facilitado por quien solicito el trabajo,,Alejandra Cona,21/06/2019,25
+21/06/2019 16:08:09,José Santibáñez,Aaron Checura,Impresora 3D,186,PLA,,Estudiante/Uso Personal,10:37:00,13:43:00,Del FabLab,47g,Aaron Checura,21/06/2019,25
+21/06/2019 23:12:51,Camilo Saldías,Francisco Fernandez,Impresora 3D,52,PLA,,Interno/Publicidad,16:58:00,17:50:00,Del FabLab,10g,Francisco Fernández,21/06/2019,25
+21/06/2019 23:13:57,Camilo Saldías,Francisco Fernandez,Impresora 3D,52,PLA,,Interno/Publicidad,16:58:00,17:50:00,Del FabLab,10g,Francisco Fernández,21/06/2019,25
+24/06/2019 18:26:08,José Santibáñez,José Santibáñez,Impresora 3D,41,ABS,,Estudiante/Uso Personal,13:30:00,14:11:00,Facilitado por quien solicito el trabajo,,Ignacio Correa,24/06/2019,26
+24/06/2019 18:34:50,Pablo Albornoz,Javier De la Cerda,Router CNC,90,Terciado,,Estudiante/Uso Personal,18:30:00,20:00:00,Facilitado por quien solicito el trabajo,,Javier De La Cerda,20/06/2019,25
+24/06/2019 18:37:43,Pablo Albornoz,Javier De la Cerda,Router CNC,62,plumavit,,Estudiante/Por Asignatura,15:32:00,16:34:00,Facilitado por quien solicito el trabajo,,"David Campbell, Carolina Gutierrez",24/06/2019,26
+24/06/2019 18:39:58,Pablo Albornoz,Diego Vera,Cortadora Laser,60,cartón piedra,,Estudiante/Uso Personal,17:45:00,18:45:00,Facilitado por quien solicito el trabajo,,Diego Vera,21/06/2019,25
+24/06/2019 18:43:42,Pablo Albornoz,Diego Vera,Cortadora Laser,35,cartón piedra,,Estudiante/Uso Personal,17:45:00,18:20:00,Facilitado por quien solicito el trabajo,,Diego Vera,21/06/2019,25
+24/06/2019 18:45:05,Pablo Albornoz,Pablo Albornoz,Cortadora Laser,7,MDF,usé un retazo que estaba cortado en la mitad :O,Estudiante/Uso Personal,14:05:00,14:12:00,Del FabLab,800x535x3,Pablo Albornoz,24/06/2019,26
+24/06/2019 18:46:06,Pablo Albornoz,Pablo Albornoz,Cortadora Laser,43,MDF,,Estudiante/Uso Personal,14:50:00,15:33:00,Del FabLab,800x535x3,Pablo Albornoz,24/06/2019,26
+24/06/2019 18:47:25,Pablo Albornoz,Pablo Albornoz,Cortadora Laser,15,MDF,,Estudiante/Uso Personal,15:58:00,16:13:00,Del FabLab,800x353x3,Pablo Albornoz,24/06/2019,26
+24/06/2019 18:48:57,Pablo Albornoz,Pablo Albornoz,Impresora 3D,329,PLA,pagado,Estudiante/Por Asignatura,13:12:00,18:41:00,Del FabLab,73g,Daniel Maurel,24/06/2019,26
+24/06/2019 19:16:13,Pablo Albornoz,José Santibáñez,Impresora 3D,31,PLA,trompo,Estudiante/Uso Personal,18:48:00,19:19:00,Del FabLab,2g,José Santibáñez,24/06/2019,26
+25/06/2019 18:07:34,Fernanda Silva,Derick Vidal,Impresora 3D,175,PLA,,Estudiante/Por Asignatura,15:05:00,18:00:00,Facilitado por quien solicito el trabajo,,Derick Vidal,25/06/2019,26
+27/06/2019 17:25:45,Camilo Saldías,José Santibáñez,Impresora 3D,539,PLA,,Estudiante/Uso Personal,13:08:00,22:07:00,Del FabLab,100g,Ignacio Correa,26/06/2019,26
+27/06/2019 17:26:21,Camilo Saldías,José Santibáñez,Impresora 3D,523,PLA,,Estudiante/Uso Personal,13:25:00,22:08:00,Del FabLab,100g,Ignacio Correa,26/06/2019,26
+27/06/2019 17:28:19,Camilo Saldías,Javier De la Cerda,Router CNC,120,Plumavit,Asignatura IDP,Estudiante/Por Asignatura,14:35:00,16:35:00,Facilitado por quien solicito el trabajo,,Javier De La Cerda,26/06/2019,26
+27/06/2019 17:29:19,Camilo Saldías,Javier De la Cerda,Router CNC,56,MDF,Asignatura IDP,Estudiante/Por Asignatura,16:10:00,17:06:00,Facilitado por quien solicito el trabajo,,Javier De La Cerda,27/06/2019,26
+27/06/2019 17:31:05,Camilo Saldías,Alejandra Cona,Cortadora Laser,39,Acrilico,,Estudiante/Uso Personal,12:06:00,12:45:00,Facilitado por quien solicito el trabajo,,Alejandra Cona,26/06/2019,26
+28/06/2019 17:05:10,Camilo Saldías,Leonardo Cornejo,Torno,23,Madera,Ayuda IDP. Marcado con asterisco en registro de uso de máquina.,Estudiante/Por Asignatura,10:00:00,10:23:00,Facilitado por quien solicito el trabajo,,IDP,28/06/2019,26
+28/06/2019 17:06:22,Camilo Saldías,Leonardo Cornejo,Torno,65,Acero,,Empresa/Pyme,10:25:00,11:30:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,28/06/2019,26
+28/06/2019 17:07:30,Camilo Saldías,Eduardo Castillo,Torno,60,Acero,,Empresa/Pyme,12:00:00,13:00:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,28/06/2019,26
+28/06/2019 17:11:24,Camilo Saldías,Derick Vidal,Impresora 3D,140,PLA,Memoria,Estudiante/Por Asignatura,15:10:00,17:30:00,Facilitado por quien solicito el trabajo,,Derick Vidal,27/06/2019,26
+28/06/2019 17:12:15,Camilo Saldías,Fernanda Silva,Impresora 3D,191,PLA,,Estudiante/Uso Personal,9:45:00,12:56:00,Del FabLab,22g,Fernanda Silva,28/06/2019,26
+1/07/2019 19:13:10,José Santibáñez,Aaron Checura,Impresora 3D,18,PLA,,Desarrollo Interno,14:16:00,14:34:00,Del FabLab,2,Aaron Checura,1/07/2019,27
+1/07/2019 19:14:53,José Santibáñez,Aaron Checura,Impresora 3D,20,PLA,,Desarrollo Interno,14:16:00,14:36:00,Del FabLab,2,Aaron Checura,1/07/2019,27
+1/07/2019 19:17:29,José Santibáñez,Derick Vidal,Impresora 3D,17,PLA,Memoria,Estudiante/Por Asignatura,17:53:00,18:10:00,Facilitado por quien solicito el trabajo,,Derick Vidal,1/07/2019,27
+1/07/2019 19:23:30,José Santibáñez,Leonardo Cornejo,Torno,5,UHMW,,Empresa/Pyme,11:30:00,11:35:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,1/07/2019,27
+1/07/2019 19:28:57,José Santibáñez,Fernanda Silva,Cortadora Laser,25,Cartón Piedra,,Estudiante/Por Asignatura,13:47:00,14:12:00,Facilitado por quien solicito el trabajo,,Fernanda Silva,28/06/2019,26
+2/07/2019 20:50:14,Pablo Albornoz,Eduardo Castillo,Torno,19,UHMW,Dificultad *****,Empresa/Pyme,13:20:00,13:39:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,2/07/2019,27
+2/07/2019 20:51:57,Pablo Albornoz,Javier De la Cerda,Impresora 3D,21,PLA,,Interno/Publicidad,19:39:00,20:00:00,Del FabLab,1g,Javier De la Cerda,1/07/2019,27
+3/07/2019 17:53:11,Pablo Albornoz,José Santibáñez,Cortadora Laser - X252,7,MDF,,Estudiante/Uso Personal,17:00:00,17:07:00,Del FabLab,200X300MM,José Santibañez,3/07/2019,27
+5/07/2019 13:29:34,Pablo Albornoz,Francisco Fernandez,Impresora 3D - 1,94,PLA,Mueble Cirqoid,Interno/Mantenimiento,17:16:00,18:50:00,Del FabLab,12g,Francisco Fernandez,4/07/2019,27
+5/07/2019 13:30:59,Pablo Albornoz,Pablo Albornoz,Impresora 3D - 3,76,ABS,,Estudiante/Proyecto Inscrito FabLab,12:09:00,13:25:00,Facilitado por quien solicito el trabajo,,Ignacio Correa,5/07/2019,27
+5/07/2019 13:34:07,Pablo Albornoz,Diego Rozas,Cortadora Laser - X252,37,Madera de Balsa,CDSR,Estudiante/Uso Personal,16:27:00,17:04:00,Facilitado por quien solicito el trabajo,,Diego Rozaz,4/07/2019,27
+8/07/2019 20:28:28,Pablo Albornoz,Derick Vidal,Impresora 3D - 2,189,PLA,memoria,Estudiante/Por Asignatura,14:57:00,18:06:00,Facilitado por quien solicito el trabajo,,Derick Vidal,8/07/2019,28
+8/07/2019 20:29:49,Pablo Albornoz,José Santibáñez,Impresora 3D - 5,402,PLA,levitador sónico,Estudiante/Uso Personal,14:04:00,20:46:00,Del FabLab,33,José Santibañez,8/07/2019,28
+8/07/2019 20:31:15,Pablo Albornoz,Javier De la Cerda,Impresora 3D - 1,46,PLA,impresión fallida,Estudiante/Uso Personal,19:09:00,19:55:00,Del FabLab,,Javier De La Cerda,8/07/2019,28
+23/07/2019 10:40:15,Fernanda Silva,Derick Vidal,Impresora 3D - 2,186,PLA,,Estudiante/Por Asignatura,14:40:00,17:46:00,Facilitado por quien solicito el trabajo,,Derick Vidal,9/07/2019,28
+23/07/2019 10:45:49,Fernanda Silva,Derick Vidal,Impresora 3D - 2,121,PLA,,Estudiante/Por Asignatura,15:48:00,17:49:00,Facilitado por quien solicito el trabajo,,Derick Vidal,10/07/2019,28
+23/07/2019 10:52:35,Fernanda Silva,Derick Vidal,Impresora 3D - 2,103,PLA,,Estudiante/Por Asignatura,13:12:00,14:55:00,Facilitado por quien solicito el trabajo,,Derick Vidal,15/07/2019,29
+23/07/2019 11:01:46,Fernanda Silva,Derick Vidal,Impresora 3D - 2,213,PLA,,Estudiante/Por Asignatura,15:00:00,18:33:00,Facilitado por quien solicito el trabajo,,Derick Vidal,19/07/2019,29
+23/07/2019 11:02:57,Fernanda Silva,Derick Vidal,Impresora 3D - 2,209,PLA,,Estudiante/Por Asignatura,15:30:00,18:59:00,Facilitado por quien solicito el trabajo,,Derick Vidal,22/07/2019,30
+23/07/2019 11:08:55,Fernanda Silva,Javier De la Cerda,Cortadora Laser - X252,4,MDF,,Desarrollo Interno,14:52:00,14:56:00,Del FabLab,345x126 mm,FabLab,11/07/2019,28
+23/07/2019 11:10:08,Fernanda Silva,Javier De la Cerda,Cortadora Laser - X252,2,MDF,,Desarrollo Interno,15:12:00,15:14:00,Del FabLab,,FabLab,11/07/2019,28
+23/07/2019 11:11:39,Fernanda Silva,Javier De la Cerda,Cortadora Laser - X252,4,MDF,,Desarrollo Interno,15:15:00,15:19:00,Del FabLab,,FabLab,11/07/2019,28
+23/07/2019 11:15:42,Fernanda Silva,Pablo Albornoz,Cortadora Laser - X252,55,MDF,,Interno/Capacitación/USM,18:50:00,19:45:00,Del FabLab,,Pablo Albornoz,11/07/2019,28
+23/07/2019 11:17:54,Fernanda Silva,José Santibáñez,Cortadora Laser - X252,9,Carton piedra,,Estudiante/Uso Personal,17:02:00,17:11:00,Facilitado por quien solicito el trabajo,,José Santibañez,18/07/2019,29
+23/07/2019 11:19:12,Fernanda Silva,José Santibáñez,Cortadora Laser - X252,3,MDF,,Estudiante/Uso Personal,17:31:00,17:34:00,Facilitado por quien solicito el trabajo,,Jose Santiabñez,18/07/2019,29
+23/07/2019 11:27:27,Fernanda Silva,Eduardo Castillo,Torno,165,-,,Empresa/Pyme,10:30:00,13:15:00,Facilitado por quien solicito el trabajo,,khamakhe,4/07/2019,27
+23/07/2019 11:33:29,Fernanda Silva,José Santibáñez,Impresora 3D - 1,106,PLA,Ergon,Estudiante/Proyecto Inscrito FabLab,11:25:00,13:11:00,Del FabLab,15 gramos,Ergon,9/07/2019,28
+23/07/2019 11:35:58,Fernanda Silva,Eduardo Castillo,Torno,68,-,,Empresa/Pyme,14:10:00,15:18:00,Facilitado por quien solicito el trabajo,,Khamakhe,4/07/2019,27
+23/07/2019 11:38:30,Fernanda Silva,Eduardo Castillo,Torno,400,Acero,,Empresa/Pyme,14:20:00,21:00:00,Facilitado por quien solicito el trabajo,,Khamakhe,5/07/2019,27
+23/07/2019 11:49:57,Fernanda Silva,Eduardo Castillo,Torno,90,Acero,,Empresa/Pyme,10:30:00,12:00:00,Facilitado por quien solicito el trabajo,,Khamakhe,8/07/2019,28
+23/07/2019 11:51:29,Fernanda Silva,Eduardo Castillo,Torno,230,acero,,Empresa/Pyme,16:30:00,20:20:00,Facilitado por quien solicito el trabajo,,Khamakhe,9/07/2019,28
+23/07/2019 11:56:15,Fernanda Silva,Eduardo Castillo,Torno,54,acero inox,,Empresa/Pyme,16:26:00,17:20:00,Facilitado por quien solicito el trabajo,,Khamakhe,10/07/2019,28
+23/07/2019 11:57:41,Fernanda Silva,Leonardo Cornejo,Torno,70,acero inox,,Empresa/Pyme,12:30:00,13:40:00,Facilitado por quien solicito el trabajo,,Khamakhe,11/07/2019,28
+23/07/2019 11:58:58,Fernanda Silva,Eduardo Castillo,Torno,200,acero inox,,Empresa/Pyme,15:50:00,19:10:00,Facilitado por quien solicito el trabajo,,Khamakhe,11/07/2019,28
+23/07/2019 12:03:13,Fernanda Silva,Eduardo Castillo,Torno,124,acero inox,,Empresa/Pyme,17:30:00,19:34:00,Facilitado por quien solicito el trabajo,,Khamakhe,12/07/2019,28
+23/07/2019 18:58:27,Pablo Albornoz,Fernanda Silva,Impresora 3D - 2,178,PLA,,Estudiante/Uso Personal,10:34:00,13:32:00,Del FabLab,39,Daniel Maurel,23/07/2019,30
+23/07/2019 18:59:44,Pablo Albornoz,José Santibáñez,Impresora 3D - 1,136,PLA,,Estudiante/Uso Personal,11:16:00,13:32:00,Del FabLab,25,Gonzalo España,23/07/2019,30
+23/07/2019 19:00:56,Pablo Albornoz,José Santibáñez,Impresora 3D - 1,135,PLA,impresión fallida,Estudiante/Uso Personal,14:00:00,16:15:00,Del FabLab,12.5g,Gonzalo España,23/07/2019,30
+23/07/2019 19:02:46,Pablo Albornoz,José Santibáñez,Cortadora Laser - X252,716,MDF,,Estudiante/Uso Personal,14:02:00,2:06:00,Del FabLab,110x100x3mm,José Santibáñez,23/07/2019,30
+25/07/2019 10:36:43,José Santibáñez,Pablo Albornoz,Impresora 3D - 1,188,PLA,,Estudiante/Uso Personal,12:12:00,15:20:00,Del FabLab,11 g,Gonzalo España,24/07/2019,30
+25/07/2019 10:37:56,José Santibáñez,Derick Vidal,Impresora 3D - 2,255,PLA,Memoria,Estudiante/Por Asignatura,14:15:00,18:30:00,Facilitado por quien solicito el trabajo,,Derick Vidal,24/07/2019,30
+25/07/2019 20:21:30,Pablo Albornoz,Derick Vidal,Impresora 3D - 2,461,PLA,,Estudiante/Por Asignatura,12:23:00,4:42:00,Facilitado por quien solicito el trabajo,,Derick Vidal,25/07/2019,30
+25/07/2019 20:22:19,Pablo Albornoz,Diego Vera,Impresora 3D - 1,187,PLA,,Estudiante/Uso Personal,15:30:00,18:37:00,Del FabLab,11g,Gonzalo España,25/07/2019,30
+26/07/2019 14:46:40,Pablo Albornoz,Pablo Albornoz,Cortadora Laser - X252,33,MDF,,Estudiante/Uso Personal,13:01:00,13:34:00,Facilitado por quien solicito el trabajo,,Pablo Albornoz,26/07/2019,30
+26/07/2019 14:48:45,Pablo Albornoz,José Santibáñez,Cortadora Laser - X252,6,MDF,,Estudiante/Uso Personal,11:24:00,11:30:00,Del FabLab,69x30x3mm,José Santibáñez,25/07/2019,30
+29/07/2019 19:21:33,Pablo Albornoz,Daniel Maurel,Router CNC - PRSStandar,34,Aluminio,,Estudiante/Uso Personal,18:00:00,18:34:00,Facilitado por quien solicito el trabajo,,Daniel Maurel,29/07/2019,31
+29/07/2019 19:22:39,Pablo Albornoz,José Santibáñez,Cortadora Laser - X252,14,MDF,,Estudiante/Uso Personal,12:54:00,13:08:00,Del FabLab,-,José Santibañez,29/07/2019,31
+1/08/2019 12:06:41,José Santibáñez,Derick Vidal,Impresora 3D - 2,242,PLA,Memoria,Estudiante/Por Asignatura,13:30:00,17:32:00,Facilitado por quien solicito el trabajo,,Derick Vidal,30/07/2019,31
+1/08/2019 12:08:15,José Santibáñez,Fernanda Silva,Impresora 3D - 1,147,PLA,,Estudiante/Por Asignatura,15:35:00,18:02:00,Del FabLab,13 g,Benjamin Ravest,30/07/2019,31
+1/08/2019 12:09:00,José Santibáñez,Derick Vidal,Impresora 3D - 2,30,PLA,Memoria,Estudiante/Por Asignatura,17:40:00,18:10:00,Facilitado por quien solicito el trabajo,,Derick Vidal,30/07/2019,31
+1/08/2019 12:11:20,José Santibáñez,Pablo Albornoz,Impresora 3D - 5,120,PLA,,Estudiante/Uso Personal,10:50:00,12:50:00,Del FabLab,24 g,Pablo Alboroz,31/07/2019,31
+1/08/2019 12:19:25,José Santibáñez,Pablo Albornoz,Cortadora Laser - X252,48,MDF,,Empresa/Pyme,16:22:00,17:10:00,Del FabLab,,Pablo Albornoz,31/07/2019,31
+1/08/2019 12:21:19,José Santibáñez,José Santibáñez,Cortadora Laser - X252,50,MDF,,Estudiante/Uso Personal,12:18:00,11:28:00,Facilitado por quien solicito el trabajo,,José Santibáñez,1/08/2019,31
+1/08/2019 18:22:38,Pablo Albornoz,Pablo Albornoz,Impresora 3D - 1,270,PLA,Carcasa Jetson Nano,Estudiante/Uso Personal,10:50:00,15:20:00,Del FabLab,30g,Juan Carlos Calvo,31/07/2019,31
+1/08/2019 18:23:29,Pablo Albornoz,Pablo Albornoz,Impresora 3D - 5,210,PLA,,Estudiante/Uso Personal,12:55:00,16:25:00,Del FabLab,24g,Juan Carlos Calvo,31/07/2019,31
+1/08/2019 20:29:11,Pablo Albornoz,Pablo Albornoz,Cortadora Laser - X252,19,MDF,,Empresa/Pyme,19:43:00,20:02:00,Del FabLab,,Centro Educacional Rubén Darío,1/08/2019,31
+5/08/2019 19:23:32,José Santibáñez,Pablo Albornoz,Cortadora Laser - X252,69,Vidrio,,Estudiante/Uso Personal,17:11:00,18:20:00,Facilitado por quien solicito el trabajo,,Pablo Albornoz,5/08/2019,32
+5/08/2019 19:26:57,José Santibáñez,Pablo Albornoz,Cortadora Laser - X252,8,MDF,,Estudiante/Por Asignatura,18:22:00,18:30:00,Facilitado por quien solicito el trabajo,,Pablo Albornoz,5/08/2019,32
+5/08/2019 19:30:15,José Santibáñez,Pablo Albornoz,Cortadora Laser - X252,25,Vidrio,,Estudiante/Uso Personal,18:50:00,19:15:00,Facilitado por quien solicito el trabajo,,Pablo Albornoz,5/08/2019,32
+7/08/2019 19:37:03,Fernanda Silva,Eduardo Castillo,Torno,180,inox,,Empresa/Pyme,17:50:00,20:50:00,Facilitado por quien solicito el trabajo,,Khamakhe,1/08/2018,31
+7/08/2019 19:38:13,Fernanda Silva,Eduardo Castillo,Torno,45,INOX,,Empresa/Pyme,12:30:00,13:15:00,Facilitado por quien solicito el trabajo,,Khamakhe,2/08/2019,31
+7/08/2019 19:40:44,Fernanda Silva,Eduardo Castillo,Torno,120,inox,,Empresa/Pyme,14:10:00,16:10:00,Facilitado por quien solicito el trabajo,,Khamakhe,2/08/2019,31
+7/08/2019 19:42:21,Fernanda Silva,Eduardo Castillo,Torno,220,inox,,Empresa/Pyme,17:00:00,20:40:00,Facilitado por quien solicito el trabajo,,Khamakhe,2/08/2019,31
+7/08/2019 19:45:55,Fernanda Silva,Eduardo Castillo,Torno,90,inox,,Empresa/Pyme,11:30:00,13:00:00,Facilitado por quien solicito el trabajo,,Khamkhe,3/08/2019,31
+7/08/2019 19:48:01,Fernanda Silva,Eduardo Castillo,Torno,65,inox,,Empresa/Pyme,13:55:00,15:00:00,Facilitado por quien solicito el trabajo,,Khamakhe,3/08/2019,31
+8/08/2019 18:48:04,Pablo Albornoz,José Santibáñez,Cortadora Laser - X252,5,MDF,,Estudiante/Uso Personal,12:30:00,12:35:00,Del FabLab,"61,7x45x3mm",José Santibañez,6/08/2019,32
+8/08/2019 18:50:48,Pablo Albornoz,Fernanda Silva,Impresora 3D - 3,60,PLA,,Estudiante/Uso Personal,15:00:00,16:00:00,Del FabLab,13g,Fernanda Silva,7/08/2019,32
+8/08/2019 18:52:06,Pablo Albornoz,Fernanda Silva,Impresora 3D - 3,41,PLA,,Estudiante/Uso Personal,16:38:00,17:19:00,Del FabLab,8g,Fernanda Silva,7/08/2019,32
+8/08/2019 18:53:37,Pablo Albornoz,Fernanda Silva,Impresora 3D - 3,49,PLA,,Estudiante/Uso Personal,17:34:00,18:23:00,Del FabLab,10g,Fernanda Silva,7/08/2019,32
+8/08/2019 18:54:30,Pablo Albornoz,Derick Vidal,Impresora 3D - 2,222,PLA,,Estudiante/Por Asignatura,13:31:00,17:13:00,Facilitado por quien solicito el trabajo,,Derick Vidal,8/08/2019,32
+12/08/2019 18:46:45,Fernanda Silva,Fernanda Silva,Impresora 3D - 1,71,PLA,,Estudiante/Uso Personal,12:34:00,13:45:00,Del FabLab,10,Fernanda Silva,9/08/2019,32
+12/08/2019 18:47:58,Fernanda Silva,Fernanda Silva,Impresora 3D - 1,20,PLA,,Estudiante/Uso Personal,13:56:00,14:16:00,Del FabLab,5 gramos,Fernanda Silva,9/08/2019,32
+12/08/2019 18:49:19,Fernanda Silva,Fernanda Silva,Impresora 3D - 3,53,PLA,,Estudiante/Uso Personal,14:41:00,15:34:00,Del FabLab,4 gramos,Ignacio Correa,9/08/2019,32
+12/08/2019 18:50:23,Fernanda Silva,Derick Vidal,Impresora 3D - 2,125,PLA,,Estudiante/Por Asignatura,15:15:00,17:20:00,Facilitado por quien solicito el trabajo,,Derick Vidal,9/08/2019,32
+12/08/2019 18:51:47,Fernanda Silva,José Santibáñez,Impresora 3D - 3,19,PLA,,Estudiante/Uso Personal,15:57:00,16:16:00,Del FabLab,2 gramos,José Santibáñez,9/08/2019,32
+12/08/2019 18:52:56,Fernanda Silva,Francisco Fernandez,Impresora 3D - 5,28,PLA,,Desarrollo Interno,19:58:00,20:26:00,Del FabLab,5 gramos,FabLab,9/08/2019,32
+12/08/2019 18:54:23,Fernanda Silva,Aaron Checura,Impresora 3D - 2,263,PLA,,Estudiante/Uso Personal,12:13:00,16:36:00,Del FabLab,36 gramos,Aaron Checura,12/08/2019,33
+12/08/2019 18:55:33,Fernanda Silva,Aaron Checura,Impresora 3D - 5,197,PLA,,Estudiante/Uso Personal,12:13:00,15:30:00,Del FabLab,46 gramos,Aaron Checura,12/08/2019,33
+12/08/2019 18:56:29,Fernanda Silva,Derick Vidal,Impresora 3D - 2,50,PLA,,Estudiante/Por Asignatura,17:22:00,18:12:00,Facilitado por quien solicito el trabajo,,Derick Vidal,12/08/2019,33
+12/08/2019 19:00:33,Fernanda Silva,Eduardo Castillo,Torno,128,inox,,Empresa/Pyme,10:32:00,12:40:00,Facilitado por quien solicito el trabajo,,Khamakhe,5/08/2019,32
+12/08/2019 19:01:35,Fernanda Silva,Eduardo Castillo,Torno,77,inox,,Empresa/Pyme,13:33:00,14:50:00,Facilitado por quien solicito el trabajo,,Khamakhe,5/08/2019,32
+12/08/2019 19:02:23,Fernanda Silva,Eduardo Castillo,Torno,350,inox,,Empresa/Pyme,16:10:00,22:00:00,Facilitado por quien solicito el trabajo,,Khamakhe,5/08/2019,32
+12/08/2019 19:03:26,Fernanda Silva,Eduardo Castillo,Torno,180,inox,,Empresa/Pyme,17:25:00,20:25:00,Facilitado por quien solicito el trabajo,,Khamakhe,7/08/2019,32
+12/08/2019 19:04:36,Fernanda Silva,Leonardo Cornejo,Torno,150,inox 304,,Empresa/Pyme,10:00:00,12:30:00,Facilitado por quien solicito el trabajo,,Khamakhe,8/08/2019,32
+12/08/2019 19:05:34,Fernanda Silva,Eduardo Castillo,Torno,345,inox 304,,Empresa/Pyme,15:00:00,20:45:00,Facilitado por quien solicito el trabajo,,Khamakhe,8/08/2019,32
+12/08/2019 19:06:38,Fernanda Silva,Eduardo Castillo,Torno,36,inox 304,,Empresa/Pyme,14:00:00,14:36:00,Facilitado por quien solicito el trabajo,,Khamakhe,9/08/2019,32
+12/08/2019 19:07:38,Fernanda Silva,Eduardo Castillo,Torno,20,uhmw,,Empresa/Pyme,18:10:00,18:30:00,Facilitado por quien solicito el trabajo,,Khamakhe,9/09/2019,37
+20/08/2019 17:47:10,José Santibáñez,Aaron Checura,Impresora 3D - 5,180,PLA,,Estudiante/Uso Personal,9:45:00,12:45:00,Del FabLab,33 g,Aaron Checura,19/08/2019,34
+20/08/2019 17:48:46,José Santibáñez,José Santibáñez,Impresora 3D - 3,375,PLA,,Estudiante/Uso Personal,11:10:00,17:25:00,Del FabLab,58,José Santibáñez,16/08/2019,33
+20/08/2019 17:50:10,José Santibáñez,José Tomás Domínguez,Impresora 3D - 5,424,PLA,,Estudiante/Uso Personal,11:26:00,18:30:00,Del FabLab,85,José Tomás Domínguez,16/08/2019,33
+20/08/2019 17:51:24,José Santibáñez,Derick Vidal,Impresora 3D - 2,24,PLA,Memoria,Estudiante/Por Asignatura,12:55:00,13:19:00,Facilitado por quien solicito el trabajo,,Derick Vidal,16/08/2019,33
+20/08/2019 17:52:15,José Santibáñez,Derick Vidal,Impresora 3D - 1,144,PLA,Memoria,Estudiante/Por Asignatura,12:56:00,15:20:00,Facilitado por quien solicito el trabajo,,Derick Vidal,16/08/2019,33
+20/08/2019 17:53:31,José Santibáñez,José Tomás Domínguez,Impresora 3D - 2,135,PLA,,Estudiante/Uso Personal,13:15:00,15:30:00,Del FabLab,15 g,José Tomás Domínguez,19/08/2019,34
+20/08/2019 17:54:28,José Santibáñez,Aaron Checura,Impresora 3D - 1,180,PLA,,Estudiante/Uso Personal,14:25:00,17:25:00,Del FabLab,33 g,Aaroon Checura,19/08/2019,34
+20/08/2019 17:55:33,José Santibáñez,Aaron Checura,Impresora 3D - 2,74,PLA,,Estudiante/Uso Personal,14:25:00,15:39:00,Del FabLab,4 g,Aaron Checura,19/08/2019,34
+20/08/2019 17:56:41,José Santibáñez,José Santibáñez,Impresora 3D - 5,20,PLA,,Estudiante/Uso Personal,17:14:00,17:34:00,Del FabLab,8 g,José Santibáñez,19/08/2019,34
+20/08/2019 17:57:38,José Santibáñez,José Santibáñez,Impresora 3D - 5,10,PLA,,Estudiante/Uso Personal,19:06:00,19:16:00,Del FabLab,1 g,José Santibáñez,19/08/2019,34
+20/08/2019 17:59:23,José Santibáñez,José Santibáñez,Impresora 3D - 5,105,PLA,,Estudiante/Uso Personal,19:25:00,21:10:00,Del FabLab,10 g,José Santibáñez,19/08/2019,34
+20/08/2019 18:00:29,José Santibáñez,Aaron Checura,Impresora 3D - 1,11,PLA,,Estudiante/Uso Personal,9:59:00,10:10:00,Del FabLab,4 g,Aaron checura,20/08/2019,34
+20/08/2019 18:01:22,José Santibáñez,Derick Vidal,Impresora 3D - 2,125,PLA,Memoria,Estudiante/Por Asignatura,11:55:00,14:00:00,Facilitado por quien solicito el trabajo,,Derick Vidal,20/08/2019,34
+20/08/2019 18:02:09,José Santibáñez,Derick Vidal,Impresora 3D - 1,170,PLA,Memoria,Estudiante/Por Asignatura,11:55:00,14:45:00,Facilitado por quien solicito el trabajo,,Derick Vidal,20/08/2019,34
+20/08/2019 18:07:25,José Santibáñez,José Santibáñez,Cirqoid,100,Placa cobre chica,,Estudiante/Uso Personal,19:40:00,21:20:00,Del FabLab,1 placa,José Santibáñez,14/08/2019,33
+21/08/2019 20:03:52,José Santibáñez,José Santibáñez,Impresora 3D - 3,173,PLA,,Estudiante/Uso Personal,15:58:00,18:51:00,Del FabLab,20 g,José Santibáñez,20/08/2019,34
+21/08/2019 20:04:51,José Santibáñez,José Tomás Domínguez,Impresora 3D - 5,30,ABS,,Estudiante/Uso Personal,16:00:00,16:30:00,Del FabLab,5 g,José Tomás Domínguez,20/08/2019,34
+21/08/2019 20:06:15,José Santibáñez,José Tomás Domínguez,Impresora 3D - 1,368,PETG,,Estudiante/Uso Personal,15:52:00,22:00:00,Del FabLab,25 g,José Tomás Domínguez,21/08/2019,34
+21/08/2019 20:07:35,José Santibáñez,Javier De la Cerda,Impresora 3D - 3,33,PLA,,Estudiante/Uso Personal,16:00:00,16:33:00,Del FabLab,5 g,Javier De la Cerda,21/08/2019,34
+23/08/2019 18:39:13,Pablo Albornoz,José Santibáñez,Cirqoid,38,PCBFib,,Desarrollo Interno,12:13:00,12:51:00,Del FabLab,1 placa chica,José Santibañez,16/08/2019,33
+23/08/2019 18:40:10,Pablo Albornoz,José Tomás Domínguez,Cirqoid,200,PCBFib,,Desarrollo Interno,14:20:00,17:40:00,Del FabLab,,José Tomás Domínguez,19/08/2019,34
+23/08/2019 18:42:58,Pablo Albornoz,Leonardo Cornejo,Torno,35,UHMW,,Empresa/Pyme,13:45:00,14:20:00,Facilitado por quien solicito el trabajo,,Leonardo Cornejo,14/08/2019,33
+23/08/2019 18:44:14,Pablo Albornoz,Eduardo Castillo,Torno,75,Duraluminio,,Empresa/Pyme,17:15:00,18:30:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,14/08/2019,33
+23/08/2019 18:45:52,Pablo Albornoz,Eduardo Castillo,Torno,129,Duraluminio,,Empresa/Pyme,15:15:00,17:24:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,20/08/2019,34
+23/08/2019 18:46:53,Pablo Albornoz,Eduardo Castillo,Torno,95,SAE1045,,Empresa/Pyme,10:22:00,11:57:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,22/08/2019,34
+23/08/2019 18:47:51,Pablo Albornoz,Eduardo Castillo,Torno,32,1045,,Empresa/Pyme,13:12:00,13:44:00,Facilitado por quien solicito el trabajo,,Eduardo Castillo,23/08/2019,34
+23/08/2019 18:49:36,Pablo Albornoz,Javier De la Cerda,Impresora 3D - 3,252,PLA,,Estudiante/Uso Personal,17:48:00,22:00:00,Del FabLab,89g,Javier de la Cerda,21/08/2019,34
+23/08/2019 18:50:41,Pablo Albornoz,José Santibáñez,Impresora 3D - 3,285,PLA,,Interno/Publicidad,15:09:00,19:54:00,Del FabLab,8g,José Santibañez,22/08/2019,34
+23/08/2019 18:51:57,Pablo Albornoz,Derick Vidal,Impresora 3D - 2,152,PLA,,Estudiante/Por Asignatura,14:56:00,17:28:00,Facilitado por quien solicito el trabajo,,Derick Vidal,22/08/2019,34
+23/08/2019 18:57:39,Pablo Albornoz,José Santibáñez,Cortadora Laser - X252,10,Acrilico,,Estudiante/Uso Personal,17:43:00,17:53:00,Del FabLab,250x250x3mm,,16/08/2019,33
+23/08/2019 18:59:03,Pablo Albornoz,José Santibáñez,Cortadora Laser - X252,58,Mantenimiento,,Interno/Mantenimiento,17:22:00,18:20:00,Del FabLab,,,19/08/2019,34
+23/08/2019 19:00:38,Pablo Albornoz,José Santibáñez,Cortadora Laser - X252,2,MDF,,Estudiante/Uso Personal,13:31:00,13:33:00,Del FabLab,50x50x3mm,,20/08/2019,34
+23/08/2019 19:01:45,Pablo Albornoz,José Santibáñez,Cortadora Laser - X500III,44,Mantenimiento,,Interno/Mantenimiento,16:19:00,17:03:00,Del FabLab,,,20/08/2019,34
+23/08/2019 19:06:30,Pablo Albornoz,Daniel Maurel,Router CNC - PRSStandar,40,Aluminio,,Estudiante/Por Asignatura,17:00:00,17:40:00,Facilitado por quien solicito el trabajo,,,13/08/2019,33
+23/08/2019 19:08:43,Pablo Albornoz,Daniel Maurel,Router CNC - PRSStandar,350,Aluminio,,Estudiante/Por Asignatura,12:00:00,17:50:00,Facilitado por quien solicito el trabajo,,,14/08/2019,33
+23/08/2019 19:09:35,Pablo Albornoz,Daniel Maurel,Router CNC - PRSStandar,140,Aluminio,,Estudiante/Por Asignatura,15:00:00,17:20:00,Facilitado por quien solicito el trabajo,,,19/08/2019,34
+23/08/2019 19:11:34,Pablo Albornoz,Daniel Maurel,Router CNC - PRSStandar,300,Aluminio,,Estudiante/Por Asignatura,12:00:00,17:00:00,Facilitado por quien solicito el trabajo,,,20/08/2019,34
+23/08/2019 19:12:49,Pablo Albornoz,Daniel Maurel,Router CNC - PRSStandar,210,Aluminio,,Estudiante/Por Asignatura,13:00:00,16:30:00,Facilitado por quien solicito el trabajo,,,21/08/2019,34
+23/08/2019 19:14:08,Pablo Albornoz,Aaron Checura,Router CNC - PRSStandar,59,Roble,,Interno/Desarrollo,8:53:00,9:52:00,Del FabLab,,,22/08/2019,34
+23/08/2019 19:15:14,Pablo Albornoz,Daniel Maurel,Router CNC - PRSStandar,120,Aluminio,,Estudiante/Por Asignatura,15:00:00,17:00:00,Facilitado por quien solicito el trabajo,,,22/08/2019,34
+28/08/2019 11:59:20,Fernanda Silva,Aaron Checura,Impresora 3D - 1,290,PLA,,Estudiante/Uso Personal,12:30:00,17:20:00,Facilitado por quien solicito el trabajo,,,24/08/2019,34
+28/08/2019 12:05:15,Vicente Lueiza,Aaron Checura,Impresora 3D - 2,300,PLA,,Estudiante/Uso Personal,12:36:00,17:36:00,Facilitado por quien solicito el trabajo,,,24/08/2019,34
+28/08/2019 12:06:20,Vicente Lueiza,Aaron Checura,Impresora 3D - 4,177,PLA,,Estudiante/Uso Personal,12:40:00,15:37:00,Facilitado por quien solicito el trabajo,,,24/08/2019,34
+28/08/2019 12:07:24,Vicente Lueiza,Aaron Checura,Impresora 3D - 5,209,PLA,,Estudiante/Uso Personal,12:40:00,16:09:00,Facilitado por quien solicito el trabajo,,,24/08/2019,34
+28/08/2019 12:08:34,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,54,PLA,,Estudiante/Proyecto Inscrito FabLab,12:06:00,13:00:00,Del FabLab,2 [g],,26/08/2019,35
+28/08/2019 12:10:03,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,38,PLA,,Estudiante/Proyecto Inscrito FabLab,16:22:00,17:00:00,Del FabLab,6 [g],,26/08/2019,35
+28/08/2019 12:11:26,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,14,PLA,,Estudiante/Proyecto Inscrito FabLab,18:01:00,18:15:00,Del FabLab,1 [g],,26/08/2019,35
+28/08/2019 12:13:20,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 2,16,PLA,,Estudiante/Proyecto Inscrito FabLab,18:34:00,18:50:00,Facilitado por quien solicito el trabajo,,,26/08/2019,35
+28/08/2019 12:14:49,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,67,PLA,,Estudiante/Proyecto Inscrito FabLab,16:54:00,18:01:00,Del FabLab,1 [g],,27/08/2019,35
+28/08/2019 12:16:19,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,52,PLA,,Estudiante/Proyecto Inscrito FabLab,18:08:00,19:00:00,Del FabLab,2 [g],,27/08/2019,35
+28/08/2019 12:17:38,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 2,52,PLA,,Estudiante/Proyecto Inscrito FabLab,18:08:00,19:00:00,Facilitado por quien solicito el trabajo,,,27/08/2019,35
+28/08/2019 12:20:42,Vicente Lueiza,Eduardo Castillo,Torno,80,"Bronce, latón",,Estudiante/Uso Personal,17:40:00,19:00:00,Facilitado por quien solicito el trabajo,,,26/08/2019,35
+28/08/2019 12:23:17,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,2,MDF,,Estudiante/Uso Personal,13:31:00,13:33:00,Del FabLab,50x50x3 [mm],,20/08/2019,34
+28/08/2019 12:30:29,Vicente Lueiza,José Santibáñez,Cortadora Laser - X500III,44,Mantenimiento,,Interno/Mantenimiento,16:19:00,17:03:00,Del FabLab,,,20/08/2019,34
+28/08/2019 12:31:55,Vicente Lueiza,Alfredo Gallegos,Cortadora Laser - X252,80,MDF,,Estudiante/Uso Personal,10:40:00,12:00:00,Facilitado por quien solicito el trabajo,,,22/08/2019,34
+28/08/2019 12:33:33,Vicente Lueiza,Alfredo Gallegos,Cortadora Laser - X252,16,MDF,,Estudiante/Uso Personal,13:52:00,14:08:00,Facilitado por quien solicito el trabajo,,,22/08/2019,34
+28/08/2019 12:35:31,Vicente Lueiza,Diego Vera,Cortadora Laser - X252,60,Acrilico,,Interno/Publicidad,8:45:00,9:45:00,Del FabLab,,,23/08/2019,34
+28/08/2019 12:39:48,Vicente Lueiza,José Santibáñez,Cortadora Laser - X500III,8,Acrilico,,Estudiante/Uso Personal,14:45:00,14:53:00,Facilitado por quien solicito el trabajo,,,23/08/2019,34
+28/08/2019 12:41:23,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,12,MDF,,Estudiante/Uso Personal,19:00:00,19:12:00,Del FabLab,300x300x3 [mm],,23/08/2019,34
+28/08/2019 12:45:40,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,48,Acrilico,,Interno/Publicidad,16:48:00,17:36:00,Del FabLab,150x150x4 [mm],,25/08/2019,35
+28/08/2019 12:47:00,Vicente Lueiza,Diego Vera,Cortadora Laser - X252,95,Acrilico,,Interno/Publicidad,10:05:00,11:40:00,Del FabLab,,,27/08/2019,35
+28/08/2019 12:48:16,Vicente Lueiza,Pia Osses,Cortadora Laser - X252,81,MDF,,Interno/Publicidad,13:10:00,14:31:00,Del FabLab,,,27/08/2019,35
+28/08/2019 15:47:44,Fernanda Silva,Aaron Checura,Router CNC - PRSStandar,37,Roble,,Interno/Desarrollo,14:39:00,15:16:00,Del FabLab,,FabLab UTFSM,23/08/2019,34
+28/08/2019 15:49:35,Fernanda Silva,Javier De la Cerda,Router CNC - Desktop 2,40,Madera,Premios Concuros,Interno/Desarrollo,9:00:00,9:40:00,Del FabLab,,FabLab UTFSM,23/08/2019,34
+28/08/2019 15:50:58,Fernanda Silva,Javier De la Cerda,Router CNC - Desktop 2,177,Madera,Premios Concurso,Interno/Publicidad,14:39:00,17:36:00,Del FabLab,,FabLab UTFSM,23/08/2019,34
+28/08/2019 15:52:14,Fernanda Silva,José Tomás Domínguez,Router CNC - Desktop 2,86,Madera,Premios Concurso,Interno/Publicidad,11:34:00,13:00:00,Del FabLab,,FabLab UTFSM,27/08/2019,35
+28/08/2019 15:56:02,Fernanda Silva,Daniel Maurel,Router CNC - PRSStandar,90,MAdera,,Estudiante/Uso Personal,11:30:00,13:00:00,Facilitado por quien solicito el trabajo,,,28/08/2019,35
+28/08/2019 15:57:07,Fernanda Silva,Daniel Maurel,Router CNC - PRSStandar,200,Madera,,Estudiante/Uso Personal,15:40:00,19:00:00,Facilitado por quien solicito el trabajo,,,27/08/2019,35
+4/09/2019 12:11:12,Vicente Lueiza,Pia Osses,Impresora 3D - 4,32,PLA,,Interno/Capacitación/USM,15:08:00,15:40:00,Del FabLab,,,3/09/2019,36
+4/09/2019 12:12:20,Vicente Lueiza,Pia Osses,Impresora 3D - 3,32,PLA,,Interno/Capacitación/USM,15:08:00,15:40:00,Del FabLab,,,3/09/2019,36
+4/09/2019 12:14:23,Vicente Lueiza,Pia Osses,Impresora 3D - 2,32,PLA,,Interno/Capacitación/USM,15:08:00,15:40:00,Del FabLab,,,3/09/2019,36
+4/09/2019 12:17:29,Vicente Lueiza,Daniel Maurel,Impresora 3D - 4,150,PLA,,Estudiante/Uso Personal,16:30:00,19:00:00,Del FabLab,10 [g],,3/09/2019,36
+4/09/2019 12:20:25,Vicente Lueiza,Pia Osses,Impresora 3D - 3,27,PLA,,Interno/Capacitación/USM,11:43:00,12:10:00,Del FabLab,,,4/09/2019,36
+4/09/2019 12:26:44,Vicente Lueiza,Leonardo Cornejo,Torno,"60,00000001",Aluminio,,Empresa/Pyme,11:30:00,12:30:00,Facilitado por quien solicito el trabajo,,,2/09/2019,36
+4/09/2019 12:28:40,Vicente Lueiza,Leonardo Cornejo,Torno,205,Aluminio,,Empresa/Pyme,13:30:00,16:55:00,Facilitado por quien solicito el trabajo,,,2/09/2019,36
+4/09/2019 12:33:05,Vicente Lueiza,José Tomás Domínguez,Cirqoid,180,PCB Fibra,Trabajo PUC,Empresa/Pyme,12:15:00,15:15:00,Del FabLab,1 placa chica,,22/08/2019,34
+4/09/2019 12:37:21,Vicente Lueiza,José Santibáñez,Cirqoid,150,PCB Fibra,Trabajo PUC,Empresa/Pyme,10:15:00,12:45:00,Del FabLab,1 placa chica,,30/08/2019,35
+4/09/2019 12:39:56,Vicente Lueiza,Pia Osses,Cirqoid,155,PCB Fibra,Trabajo PUC,Empresa/Pyme,11:25:00,14:00:00,Del FabLab,1 placa chica,,3/09/2019,36
+4/09/2019 12:42:04,Vicente Lueiza,José Tomás Domínguez,Cirqoid,270,PCB Fibra,Trabajo PUC,Empresa/Pyme,18:15:00,22:45:00,Del FabLab,1 placa chica,,3/09/2019,36
+4/09/2019 13:01:41,Vicente Lueiza,José Santibáñez,Router CNC - PRSStandar,79,MDF,,Estudiante/Uso Personal,18:20:00,19:39:00,Facilitado por quien solicito el trabajo,,,28/08/2019,35
+4/09/2019 13:03:38,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,"60,00000001",Terciado,,Estudiante/Uso Personal,19:00:00,20:00:00,Facilitado por quien solicito el trabajo,,,28/08/2019,35
+4/09/2019 13:06:20,Vicente Lueiza,Aaron Checura,Router CNC - PRSStandar,"66,00000001",Terciado,Caja de la Cirqoid,Interno/Desarrollo,16:13:00,17:19:00,Del FabLab,,,29/08/2019,35
+4/09/2019 13:08:37,Vicente Lueiza,José Santibáñez,Router CNC - PRSStandar,25,MDF,,Interno/Desarrollo,19:49:00,20:14:00,Del FabLab,450x470x15 [mm],,29/08/2019,35
+4/09/2019 13:09:57,Vicente Lueiza,Daniel Maurel,Router CNC - PRSStandar,90,Aluminio,,Estudiante/Uso Personal,12:30:00,14:00:00,Facilitado por quien solicito el trabajo,,,30/08/2019,35
+4/09/2019 13:14:50,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,172,Terciado,,Estudiante/Uso Personal,12:38:00,15:30:00,Del FabLab,,,31/08/2019,35
+4/09/2019 13:16:15,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,35,Terciado,,Estudiante/Proyecto Inscrito FabLab,18:00:00,18:35:00,Del FabLab,,,2/09/2019,36
+4/09/2019 13:17:07,Vicente Lueiza,Aaron Checura,Router CNC - PRSStandar,39,Terciado,,Estudiante/Proyecto Inscrito FabLab,15:53:00,16:32:00,Del FabLab,,,3/09/2019,36
+4/09/2019 13:19:52,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,20,MDF,,Interno/Desarrollo,20:40:00,21:00:00,Del FabLab,"230x230x5,5 [mm]",,29/08/2019,35
+4/09/2019 13:23:07,Vicente Lueiza,Roberto Paredes,Cortadora Laser - X252,33,Acrilico,,Funcionario/Financiado por Depto,11:41:00,12:14:00,Facilitado por quien solicito el trabajo,,,30/08/2019,35
+4/09/2019 13:25:49,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,"4,000000003",MDF,,Interno/Desarrollo,12:38:00,12:42:00,Del FabLab,350x290x3 [mm],,31/08/2019,35
+4/09/2019 13:27:16,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,17,MDF,,Interno/Desarrollo,13:39:00,13:22:00,Del FabLab,350x290x3 [mm],,31/08/2019,35
+10/09/2019 17:09:39,Vicente Lueiza,José Tomás Domínguez,Cirqoid,210,PCB Fibra,,Estudiante/Proyecto Inscrito FabLab,15:00:00,18:30:00,Del FabLab,1 placa chica,,6/09/2019,36
+11/09/2019 12:34:31,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,110,Terciado,,Estudiante/Uso Personal,11:40:00,13:30:00,Facilitado por quien solicito el trabajo,,,5/09/2019,36
+11/09/2019 12:52:01,Vicente Lueiza,Aaron Checura,Router CNC - PRSStandar,40,Terciado,,Interno/Desarrollo,14:08:00,14:48:00,Del FabLab,,,10/09/2019,37
+11/09/2019 12:55:04,Vicente Lueiza,Pablo Albornoz,Cortadora Laser - X252,"52,99999999",MDF,,Interno/Capacitación/USM,15:30:00,16:23:00,Del FabLab,,,5/09/2019,36
+11/09/2019 12:53:56,Vicente Lueiza,Javier De la Cerda,Cortadora Laser - X252,"5,999999999",MDF,,Estudiante/Uso Personal,20:47:00,20:53:00,Del FabLab,390x345x3 [mm],,4/09/2019,36
+11/09/2019 12:59:16,Vicente Lueiza,José Tomás Domínguez,Cirqoid,130,PCB Fibra,,Estudiante/Proyecto Inscrito FabLab,12:30:00,14:40:00,Del FabLab,1 placa chica,,9/09/2019,37
+11/09/2019 13:05:32,Vicente Lueiza,José Santibáñez,Impresora 3D - 4,172,PLA,,Estudiante/Proyecto Inscrito FabLab,19:45:00,22:37:00,Del FabLab,44 [g],,4/09/2019,36
+11/09/2019 13:04:33,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,172,PLA,,Estudiante/Proyecto Inscrito FabLab,19:45:00,22:37:00,Del FabLab,44 [g],,4/09/2019,36
+11/09/2019 13:08:43,Vicente Lueiza,Daniel Maurel,Impresora 3D - 3,325,PLA,,Estudiante/Uso Personal,14:00:00,19:25:00,Del FabLab,20 [g],,6/09/2019,36
+11/09/2019 13:12:19,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,"41,99999999",PLA,,Estudiante/Proyecto Inscrito FabLab,15:53:00,16:35:00,Del FabLab,10 [g],,6/09/2019,36
+11/09/2019 13:21:45,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,385,PLA,,Estudiante/Proyecto Inscrito FabLab,16:35:00,23:00:00,Del FabLab,32 [g],,6/09/2019,36
+11/09/2019 13:24:10,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,"19,99999999",PLA,,Estudiante/Proyecto Inscrito FabLab,12:30:00,12:50:00,Del FabLab,32 [g],,7/09/2019,36
+11/09/2019 13:25:12,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,180,PLA,,Estudiante/Proyecto Inscrito FabLab,13:48:00,16:48:00,Del FabLab,16 [g],,7/09/2019,36
+11/09/2019 13:26:44,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,180,PLA,,Estudiante/Proyecto Inscrito FabLab,17:00:00,20:00:00,Del FabLab,42 [g],,7/09/2019,36
+11/09/2019 13:29:07,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 2,501,PLA,,Estudiante/Proyecto Inscrito FabLab,17:21:00,9:00:00,Del FabLab,83 [g],ERGON,7/09/2019,36
+11/09/2019 13:30:29,Vicente Lueiza,Fernanda Silva,Impresora 3D - 2,144,PLA,,Estudiante/Proyecto Inscrito FabLab,14:42:00,17:06:00,Del FabLab,20 [g],ERGON,6/09/2019,36
+11/09/2019 13:35:30,Vicente Lueiza,Eduardo Castillo,Torno,180,Dura Al,,Empresa/Pyme,10:00:00,13:00:00,Facilitado por quien solicito el trabajo,,,6/09/2019,36
+11/09/2019 13:32:57,Vicente Lueiza,Javier De la Cerda,Impresora 3D - 1,159,ABS,,Estudiante/Proyecto Inscrito FabLab,19:21:00,22:00:00,Del FabLab,6 [g],,5/09/2019,36
+11/09/2019 13:34:34,Vicente Lueiza,Eduardo Castillo,Torno,259,Dura Al,,Empresa/Pyme,14:22:00,18:41:00,Facilitado por quien solicito el trabajo,,,4/09/2019,36
+11/09/2019 13:37:38,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,180,PLA,,Estudiante/Proyecto Inscrito FabLab,12:15:00,15:15:00,Del FabLab,15 [g],,8/09/2019,37
+11/09/2019 13:39:59,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,570,PLA,,Estudiante/Proyecto Inscrito FabLab,10:20:00,19:50:00,Del FabLab,53 [g],,9/09/2019,37
+11/09/2019 13:38:49,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 1,395,PLA,,Estudiante/Proyecto Inscrito FabLab,12:15:00,18:50:00,Del FabLab,36 [g],,8/09/2019,37
+11/09/2019 13:44:41,Vicente Lueiza,Diego Vera,Impresora 3D - 1,105,PLA,,Estudiante/Uso Personal,14:25:00,16:10:00,Facilitado por quien solicito el trabajo,,,10/09/2019,37
+24/09/2019 14:08:14,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,300,PLA,,Estudiante/Proyecto Inscrito FabLab,12:00:00,17:00:00,Del FabLab,32 [g],,16/09/2019,38
+24/09/2019 14:09:33,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,345,PLA,,Estudiante/Proyecto Inscrito FabLab,12:00:00,17:45:00,Del FabLab,32 [g],,16/09/2019,38
+24/09/2019 14:10:55,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 1,215,PLA,,Interno/Desarrollo,12:15:00,15:50:00,Del FabLab,17 [g],,16/09/2019,38
+24/09/2019 14:11:55,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,"36,99999999",PLA,,Estudiante/Proyecto Inscrito FabLab,18:00:00,18:37:00,Del FabLab,2 [g],,16/09/2019,38
+24/09/2019 14:12:56,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 1,"23,99999999",PLA,,Interno/Mantenimiento,12:58:00,13:22:00,Del FabLab,5 [g],,23/09/2019,39
+24/09/2019 14:19:15,Vicente Lueiza,Fernanda Silva,Impresora 3D - 2,930,PLA,,Estudiante/Proyecto Inscrito FabLab,18:15:00,2:45:00,Del FabLab,120 [g],Ignacio Correa,6/09/2019,36
+24/09/2019 14:20:12,Vicente Lueiza,Daniel Maurel,Impresora 3D - 2,749,PLA,,Estudiante/Uso Personal,17:44:00,5:15:00,Facilitado por quien solicito el trabajo,,,9/09/2019,37
+24/09/2019 14:21:26,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,30,PLA,,Interno/Mantenimiento,13:02:00,13:32:00,Del FabLab,3 [g],,10/09/2019,37
+24/09/2019 14:23:53,Vicente Lueiza,Antonia Maino,Impresora 3D - 3,288,PLA,,Estudiante/Uso Personal,12:32:00,17:20:00,Del FabLab,21 [g],,12/09/2019,37
+24/09/2019 14:24:51,Vicente Lueiza,Javier De la Cerda,Impresora 3D - 4,100,PLA,,Estudiante/Uso Personal,16:20:00,18:00:00,Del FabLab,20 [g],,13/09/2019,37
+24/09/2019 14:26:47,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 1,133,PLA,,Interno/Desarrollo,16:17:00,18:30:00,Del FabLab,6 [g],,11/09/2019,37
+24/09/2019 14:28:28,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 1,"23,99999999",PLA,,Interno/Desarrollo,12:58:00,13:22:00,Del FabLab,5,,23/09/2019,39
+24/09/2019 14:29:36,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 3,246,PLA,,Interno/Mantenimiento,12:58:00,17:04:00,Del FabLab,5 [g],,23/09/2019,39
+24/09/2019 14:33:41,Vicente Lueiza,Alexis Jara,Impresora 3D - 1,208,PLA,,Estudiante/Uso Personal,14:42:00,18:10:00,Del FabLab,45 [g],,23/09/2019,39
+24/09/2019 14:36:16,Vicente Lueiza,Eduardo Castillo,Torno,153,Inox 304,,Empresa/Pyme,11:00:00,13:33:00,Facilitado por quien solicito el trabajo,,,23/09/2019,39
+24/09/2019 14:37:31,Vicente Lueiza,Eduardo Castillo,Torno,114,Inox 304,,Empresa/Pyme,15:10:00,17:04:00,Facilitado por quien solicito el trabajo,,,23/09/2019,39
+24/09/2019 14:39:45,Vicente Lueiza,Eduardo Castillo,Torno,192,Inox 304,,Empresa/Pyme,18:00:00,21:12:00,Facilitado por quien solicito el trabajo,,,23/09/2019,39
+24/09/2019 14:44:01,Vicente Lueiza,Juan Pablo Stickar,Router CNC - Desktop 2,"45,99999999",Terciado,,Interno/Desarrollo,15:10:00,15:56:00,Del FabLab,,,11/09/2019,37
+24/09/2019 14:45:09,Vicente Lueiza,Juan Pablo Stickar,Router CNC - Desktop 2,61,Terciado,,Interno/Desarrollo,15:58:00,16:59:00,Del FabLab,,,11/09/2019,37
+24/09/2019 14:46:41,Vicente Lueiza,Daniel Maurel,Router CNC - PRSStandar,90,MDF,,Estudiante/Uso Personal,16:30:00,18:00:00,Facilitado por quien solicito el trabajo,,,22/09/2019,39
+24/09/2019 14:47:59,Vicente Lueiza,Daniel Maurel,Router CNC - PRSStandar,240,Aluminio,,Estudiante/Uso Personal,11:00:00,15:00:00,Facilitado por quien solicito el trabajo,,,24/09/2019,39
+24/09/2019 15:01:43,Vicente Lueiza,José Santibáñez,Router CNC - Desktop 2,16,MDF,,Interno/Desarrollo,14:00:00,14:16:00,Del FabLab,110x60x15 [mm],,24/09/2019,39
+24/09/2019 15:03:27,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,16,Caucho,,Estudiante/Uso Personal,18:00:00,18:16:00,Facilitado por quien solicito el trabajo,,,13/09/2019,37
+25/09/2019 11:47:51,Vicente Lueiza,Javier De la Cerda,Cortadora Laser - X252,"2,999999999",MDF,,Interno/Desarrollo,17:54:00,17:57:00,Del FabLab,510x260x3 [mm],Pamela Ureta,9/09/2019,37
+25/09/2019 11:58:54,Vicente Lueiza,Javier De la Cerda,Cortadora Laser - X252,38,MDF,,Estudiante/Uso Personal,15:00:00,15:38:00,Facilitado por quien solicito el trabajo,,,11/09/2019,37
+25/09/2019 12:01:02,Vicente Lueiza,Diego Vera,Cortadora Laser - X252,15,MDF,,Estudiante/Uso Personal,14:00:00,14:15:00,Facilitado por quien solicito el trabajo,,,11/09/2019,37
+25/09/2019 12:04:19,Vicente Lueiza,Pablo Albornoz,Cortadora Laser - X252,11,MDF,,Estudiante/Uso Personal,16:20:00,16:31:00,Facilitado por quien solicito el trabajo,,,11/09/2019,37
+25/09/2019 12:06:01,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,"4,999999995",MDF,,Interno/Desarrollo,16:38:00,16:43:00,Del FabLab,300x300x3 [mm],,12/09/2019,37
+25/09/2019 12:07:32,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,"2,999999999",MDF,,Interno/Desarrollo,18:03:00,18:06:00,Del FabLab,360x41x3 [mm],,12/09/2019,37
+25/09/2019 12:08:53,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,114,MDF,,Interno/Desarrollo,12:33:00,14:27:00,Del FabLab,230x230x3 [mm],,13/09/2019,37
+25/09/2019 12:11:11,Vicente Lueiza,Pia Osses,Cortadora Laser - X252,"29,00000001",Lenga,,Estudiante/Uso Personal,17:20:00,17:49:00,Facilitado por quien solicito el trabajo,,,13/09/2019,37
+25/09/2019 12:16:34,Vicente Lueiza,José Tomás Domínguez,Cortadora Laser - X252,"60,00000001",MDF,,Interno/Capacitación/USM,14:30:00,15:30:00,Del FabLab,,,24/09/2019,39
+25/09/2019 12:18:27,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,"3,999999992",MDF,,Interno/Desarrollo,16:37:00,16:41:00,Del FabLab,,,24/09/2019,39
+1/10/2019 14:17:43,Vicente Lueiza,Eduardo Castillo,Torno,160,Inox 304,,Empresa/Pyme,15:30:00,18:10:00,Facilitado por quien solicito el trabajo,,,24/09/2019,39
+1/10/2019 14:18:41,Vicente Lueiza,Eduardo Castillo,Torno,155,Inox 304,,Empresa/Pyme,18:40:00,21:15:00,Facilitado por quien solicito el trabajo,,,24/09/2019,39
+1/10/2019 14:20:16,Vicente Lueiza,Eduardo Castillo,Torno,276,Dura Al,,Empresa/Pyme,14:24:00,19:00:00,Facilitado por quien solicito el trabajo,,,25/09/2019,39
+1/10/2019 14:21:23,Vicente Lueiza,Eduardo Castillo,Torno,97,Inox 304,,Empresa/Pyme,10:53:00,12:30:00,Facilitado por quien solicito el trabajo,,,27/09/2019,39
+1/10/2019 14:22:23,Vicente Lueiza,Eduardo Castillo,Torno,60,Inox 304,,Empresa/Pyme,14:00:00,15:00:00,Facilitado por quien solicito el trabajo,,,27/09/2019,39
+1/10/2019 14:24:56,Vicente Lueiza,Eduardo Castillo,Torno,120,Inox 304,,Empresa/Pyme,10:30:00,12:30:00,Facilitado por quien solicito el trabajo,,,28/09/2019,39
+1/10/2019 14:25:56,Vicente Lueiza,Eduardo Castillo,Torno,115,Inox 304,,Empresa/Pyme,13:30:00,15:25:00,Facilitado por quien solicito el trabajo,,,28/09/2019,39
+1/10/2019 14:29:21,Vicente Lueiza,José Tomás Domínguez,Router CNC - PRSStandar,150,Terciado,,Interno/Capacitación/USM,15:00:00,17:30:00,Del FabLab,420x190x12,,24/09/2019,39
+1/10/2019 14:31:01,Vicente Lueiza,Daniel Maurel,Router CNC - PRSStandar,360,Aluminio,,Estudiante/Uso Personal,11:30:00,17:30:00,Facilitado por quien solicito el trabajo,,,25/09/2019,39
+1/10/2019 14:35:50,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,60,Terciado,,Interno/Desarrollo,13:12:00,14:12:00,Del FabLab,,,27/09/2019,39
+1/10/2019 14:37:00,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,12,Terciado,,Interno/Desarrollo,19:40:00,19:52:00,Del FabLab,,Pamela Ureta,25/09/2019,39
+1/10/2019 14:39:21,Vicente Lueiza,José Santibáñez,Router CNC - Desktop 2,42,Tech N y L,,Interno/Desarrollo,13:20:00,14:02:00,Del FabLab,,,28/09/2019,39
+1/10/2019 14:41:18,Vicente Lueiza,José Santibáñez,Router CNC - Desktop 2,"19,99999999",Tech N y L,,Interno/Desarrollo,15:23:00,15:43:00,Del FabLab,,,28/09/2019,39
+1/10/2019 14:47:10,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,57,Terciado,,Estudiante/Uso Personal,18:33:00,19:30:00,Facilitado por quien solicito el trabajo,,,28/09/2019,39
+1/10/2019 14:48:29,Vicente Lueiza,Leonardo Cornejo,Router CNC - PRSStandar,90,HDPE,,Empresa/Pyme,20:30:00,22:00:00,Facilitado por quien solicito el trabajo,,,30/09/2019,40
+1/10/2019 14:52:34,Vicente Lueiza,José Salinas,Cortadora Laser - X252,30,MDF,,Estudiante/Uso Personal,17:30:00,18:00:00,Facilitado por quien solicito el trabajo,,,25/09/2019,39
+1/10/2019 14:59:11,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,"4,000000003",MDF,,Interno/Desarrollo,17:31:00,17:35:00,Del FabLab,350x207x3 [mm],,29/09/2019,40
+1/10/2019 15:01:12,Vicente Lueiza,José Santibáñez,Cortadora Laser - X252,"3,00000001",MDF,,Interno/Desarrollo,17:46:00,17:49:00,Del FabLab,350x207x3[mm],,29/09/2019,40
+1/10/2019 15:13:33,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,246,PLA,,Estudiante/Proyecto Inscrito FabLab,12:58:00,17:04:00,Del FabLab,46 [g],,23/09/2019,39
+1/10/2019 15:14:36,Vicente Lueiza,Javier De la Cerda,Impresora 3D - 4,259,PLA,,Estudiante/Uso Personal,19:11:00,23:30:00,Facilitado por quien solicito el trabajo,,,24/09/2019,39
+2/10/2019 11:36:31,Vicente Lueiza,Pia Osses,Impresora 3D - Ultimaker 2,"80,00000001",TPE,,Interno/Desarrollo,14:20:00,15:40:00,Del FabLab,"1,03 [m]",,25/09/2019,39
+2/10/2019 11:37:47,Vicente Lueiza,Alejandra Cona,Impresora 3D - Ultimaker 2,"9,999999991",TPU,,Interno/Desarrollo,15:40:00,15:50:00,Del FabLab,"0,37 [m]",,25/09/2019,39
+2/10/2019 11:40:05,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 1,10,PLA,,Interno/Desarrollo,16:30:00,16:40:00,Del FabLab,2,,25/09/2019,39
+2/10/2019 11:42:30,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 5,"8,999999998",PLA,,Interno/Desarrollo,16:49:00,16:58:00,Del FabLab,2,,25/09/2019,39
+2/10/2019 11:43:36,Vicente Lueiza,Javier De la Cerda,Impresora 3D - 2,11,TPU,,Interno/Desarrollo,16:59:00,17:10:00,Del FabLab,2 [g],,25/09/2019,39
+2/10/2019 11:45:06,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 5,45,PLA,,Interno/Desarrollo,17:10:00,17:55:00,Del FabLab,6,,25/09/2019,39
+2/10/2019 11:47:13,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 4,24,PLA,,Interno/Desarrollo,17:30:00,17:54:00,Del FabLab,3,,25/09/2019,39
+2/10/2019 11:48:27,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 1,30,PLA,,Interno/Desarrollo,17:34:00,18:04:00,Del FabLab,5,,25/09/2019,39
+2/10/2019 11:49:29,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 4,49,PLA,,Interno/Desarrollo,18:09:00,18:58:00,Del FabLab,4,,25/09/2019,39
+2/10/2019 11:57:36,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 5,"22,99999999",PLA,,Interno/Desarrollo,19:18:00,19:41:00,Del FabLab,3,,25/09/2019,39
+2/10/2019 11:59:13,Vicente Lueiza,Javier De la Cerda,Impresora 3D - 2,"7,000000002",TPU,,Interno/Desarrollo,18:33:00,18:40:00,Del FabLab,2 [g],,25/09/2019,39
+2/10/2019 12:01:51,Vicente Lueiza,Francisco Fernandez,Impresora 3D - 4,"41,00000001",PLA,,Interno/Desarrollo,18:43:00,19:24:00,Del FabLab,7,,25/09/2019,39
+2/10/2019 12:03:10,Vicente Lueiza,José Santibáñez,Impresora 3D - 1,76,PLA,,Interno/Capacitación/USM,15:10:00,16:26:00,Del FabLab,1 [g],,26/09/2019,39
+2/10/2019 12:06:20,Vicente Lueiza,José Santibáñez,Impresora 3D - 2,"5,000000006",PLA y TPU,,Interno/Mantenimiento,13:52:00,13:57:00,Del FabLab,,,29/09/2019,40
+2/10/2019 12:08:24,Vicente Lueiza,José Santibáñez,Impresora 3D - 2,237,PLA y TPU,,Interno/Publicidad,14:03:00,18:00:00,Del FabLab,,,29/09/2019,40
+2/10/2019 12:09:57,Vicente Lueiza,Paloma Maldonado,Impresora 3D - 1,182,PLA,En el lado decía fallo,Interno/Desarrollo,18:12:00,15:10:00,Del FabLab,57,,28/09/2019,39
+2/10/2019 12:12:25,Vicente Lueiza,Paloma Maldonado,Impresora 3D - 3,"80,99999999",PLA,,Interno/Desarrollo,13:12:00,14:33:00,Del FabLab,15,,28/09/2019,39
+2/10/2019 12:14:18,Vicente Lueiza,Paloma Maldonado,Impresora 3D - 4,67,PLA,,Interno/Desarrollo,13:38:00,14:45:00,Del FabLab,10,,28/09/2019,39
+2/10/2019 12:15:44,Vicente Lueiza,Paloma Maldonado,Impresora 3D - 1,248,PLA,,Interno/Desarrollo,15:20:00,19:28:00,Del FabLab,57,,28/09/2019,39
+2/10/2019 12:17:03,Vicente Lueiza,Paloma Maldonado,Impresora 3D - 4,47,PLA,,Interno/Desarrollo,15:35:00,16:22:00,Del FabLab,5,,28/09/2019,39
+2/10/2019 12:25:02,Vicente Lueiza,Paloma Maldonado,Impresora 3D - 2,11,TPU,,Interno/Desarrollo,19:10:00,19:21:00,Del FabLab,1 [g],,28/09/2019,39
+2/10/2019 12:28:09,Vicente Lueiza,Paloma Maldonado,Impresora 3D - 2,"9,999999991",TPU,,Interno/Desarrollo,21:08:00,21:18:00,Del FabLab,1 [g],,28/09/2019,39
+2/10/2019 12:29:56,Vicente Lueiza,José Santibáñez,Impresora 3D - 2,120,TPU,,Interno/Desarrollo,16:50:00,18:50:00,Del FabLab,11 [g],,30/09/2019,40
+2/10/2019 12:32:01,Vicente Lueiza,José Santibáñez,Impresora 3D - 1,300,PLA,,Estudiante/Uso Personal,11:28:00,16:28:00,Del FabLab,6 [m],,1/10/2019,40
+2/10/2019 12:33:09,Vicente Lueiza,Pia Osses,Impresora 3D - 2,54,PLA,,Interno/Capacitación/USM,15:40:00,16:34:00,Del FabLab,32 [g],,1/10/2019,40
+2/10/2019 12:34:06,Vicente Lueiza,Pia Osses,Impresora 3D - 2,54,TPU,,Interno/Capacitación/USM,15:40:00,16:34:00,Del FabLab,6 [g],,1/10/2019,40
+8/10/2019 13:46:43,Vicente Lueiza,Leonardo Cornejo,Router CNC - PRSStandar,90,HDPE,,Empresa/Pyme,10:30:00,12:00:00,Facilitado por quien solicito el trabajo,,,1/10/2019,40
+8/10/2019 13:47:34,Vicente Lueiza,Leonardo Cornejo,Router CNC - PRSStandar,90,HDPE,,Empresa/Pyme,16:00:00,17:30:00,Facilitado por quien solicito el trabajo,,,1/10/2019,40
+8/10/2019 13:48:21,Vicente Lueiza,Leonardo Cornejo,Router CNC - PRSStandar,180,HDPE,,Empresa/Pyme,20:00:00,23:00:00,Facilitado por quien solicito el trabajo,,,1/10/2019,40
+8/10/2019 13:51:18,Vicente Lueiza,Pablo Albornoz,Cortadora Laser - X252,15,MDF,,Interno/Capacitación/USM,15:30:00,15:45:00,Del FabLab,,,3/10/2019,40
+8/10/2019 13:54:38,Vicente Lueiza,José Tomás Domínguez,Cortadora Laser - X252,225,MDF,,Estudiante/Proyecto Inscrito FabLab,14:15:00,18:00:00,Facilitado por quien solicito el trabajo,,,2/10/2019,40
+8/10/2019 13:56:46,Vicente Lueiza,Cristián Lazacano,Cortadora Laser - X252,60,Balsa,,Empresa/Pyme,18:10:00,19:10:00,Facilitado por quien solicito el trabajo,,,4/10/2019,40
+8/10/2019 14:01:51,Vicente Lueiza,José Tomás Domínguez,Cortadora Laser - X252,105,MDF,,Estudiante/Proyecto Inscrito FabLab,13:30:00,15:15:00,Del FabLab,,,7/10/2019,41
+8/10/2019 14:04:51,Vicente Lueiza,Javier De la Cerda,Impresora 3D - 2,90,TPU,,Estudiante/Uso Personal,15:45:00,17:15:00,Del FabLab,10 [g],,4/10/2019,40
+8/10/2019 14:08:15,Vicente Lueiza,Javier De la Cerda,Impresora 3D - 2,142,TPU,,Interno/Desarrollo,17:58:00,20:20:00,Del FabLab,4 [g],,4/10/2019,40
+8/10/2019 14:09:26,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 1,60,PLA,,Estudiante/Proyecto Inscrito FabLab,11:00:00,12:00:00,Del FabLab,10 [g],,5/10/2019,40
+8/10/2019 14:12:01,Vicente Lueiza,Felipe Vergara,Impresora 3D - 2,230,PLA,,Interno/Publicidad,11:00:00,14:50:00,Del FabLab,14 [g],,8/10/2019,41
+8/10/2019 14:12:58,Vicente Lueiza,Felipe Vergara,Impresora 3D - 1,106,PLA,,Interno/Publicidad,13:44:00,15:30:00,Del FabLab,6 [g],,9/10/2019,41
+15/10/2019 15:08:33,Vicente Lueiza,Javier De la Cerda,Router CNC - Desktop 2,"29,99999999",MDF,,Estudiante/Uso Personal,17:00:00,17:30:00,Facilitado por quien solicito el trabajo,,,14/10/2019,42
+15/10/2019 15:11:40,Vicente Lueiza,José Tomás Domínguez,Torno,60,Cobre,,Estudiante/Uso Personal,12:00:00,13:00:00,Facilitado por quien solicito el trabajo,,,15/10/2019,42
+16/10/2019 12:37:40,Vicente Lueiza,Beatriz Latorre,Impresora 3D - 1,"34,00000001",PLA,,Estudiante/Uso Personal,11:26:00,12:00:00,Del FabLab,4 [g],,3/10/2019,40
+16/10/2019 12:38:37,Vicente Lueiza,Beatriz Latorre,Impresora 3D - 4,84,PLA,,Estudiante/Uso Personal,14:06:00,15:30:00,Del FabLab,4[g],,3/10/2019,40
+16/10/2019 12:39:40,Vicente Lueiza,Beatriz Latorre,Impresora 3D - 3,83,PLA,,Estudiante/Uso Personal,14:37:00,16:00:00,Del FabLab,4 [g],,3/10/2019,40
+16/10/2019 12:40:36,Vicente Lueiza,Vicente Lueiza,Impresora 3D - 1,16,PLA,,Interno/Publicidad,15:38:00,15:54:00,Del FabLab,2 [g],,8/10/2019,41
+16/10/2019 12:43:46,Vicente Lueiza,Vicente Lueiza,Impresora 3D - 3,12,PLA,,Interno/Publicidad,15:39:00,15:51:00,Del FabLab,1 [g],,8/10/2019,41
+16/10/2019 12:45:14,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 1,180,PLA,,Estudiante/Proyecto Inscrito FabLab,11:20:00,14:20:00,Del FabLab,35 [g],,9/10/2019,41
+16/10/2019 12:49:05,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,90,PLA,,Estudiante/Proyecto Inscrito FabLab,11:20:00,12:50:00,Del FabLab,14 [g],,9/10/2019,41
+16/10/2019 12:50:29,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,90,PLA,,Estudiante/Proyecto Inscrito FabLab,11:20:00,12:50:00,Del FabLab,35 [g],,9/10/2019,41
+16/10/2019 13:01:25,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,42,PLA,,Estudiante/Proyecto Inscrito FabLab,12:55:00,13:37:00,Del FabLab,6 [g],,9/10/2019,41
+13/11/2019 13:37:08,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,165,PLA,,Estudiante/Proyecto Inscrito FabLab,15:15:00,18:00:00,Del FabLab,35 gramos,,9/10/2019,41
+13/11/2019 13:39:55,Fernanda Silva,Javier De la Cerda,Impresora 3D - 2,"73,00000001",TPU,,Interno/Desarrollo,18:37:00,19:50:00,Del FabLab,9 gramos,,9/10/2019,41
+14/11/2019 11:56:33,Fernanda Silva,José Tomás Domínguez,Cirqoid,276,PCB,,Estudiante/Proyecto Inscrito FabLab,10:00:00,14:36:00,Facilitado por quien solicito el trabajo,,,29/10/2019,44
+15/11/2019 12:06:03,Fernanda Silva,Javier De la Cerda,Impresora 3D - 1,"80,00000001",PLA,,Interno/Desarrollo,18:50:00,20:10:00,Del FabLab,11 g,,9/10/2019,41
+15/11/2019 12:07:57,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,"74,99999999",PLA,,Estudiante/Proyecto Inscrito FabLab,12:30:00,13:45:00,Del FabLab,14 g,,10/10/2019,41
+15/11/2019 12:08:39,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,235,PLA,,Estudiante/Proyecto Inscrito FabLab,14:25:00,18:20:00,Del FabLab,18 g,,10/10/2019,41
+15/11/2019 12:10:20,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,"10,99999999",PLA,,Estudiante/Proyecto Inscrito FabLab,18:30:00,18:41:00,Del FabLab,1 g,,10/10/2019,41
+15/11/2019 12:11:14,Fernanda Silva,Beatriz Latorre,Impresora 3D - 4,197,PLA,,Estudiante/Uso Personal,16:11:00,19:28:00,Del FabLab,4 g,,11/10/2019,41
+15/11/2019 12:12:12,Fernanda Silva,Beatriz Latorre,Impresora 3D - 4,120,PLA,,Estudiante/Uso Personal,13:00:00,15:00:00,Del FabLab,5 g,,15/10/2019,42
+15/11/2019 12:13:09,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,"77,99999999",PLA,,Estudiante/Proyecto Inscrito FabLab,16:15:00,17:33:00,Del FabLab,11 g,,15/10/2019,42
+15/11/2019 12:14:21,Fernanda Silva,Patricio Gonzales,Impresora 3D - 3,384,PLA,,Estudiante/Uso Personal/Halloween,13:15:00,19:39:00,Del FabLab,81 g,,16/10/2019,42
+15/11/2019 12:16:30,Fernanda Silva,Patricio Gonzales,Impresora 3D - 1,55,PLA,,Estudiante/Uso Personal,15:15:00,16:10:00,Del FabLab,2 g,,16/10/2019,42
+15/11/2019 12:18:33,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 5,223,PETG,,Estudiante/Uso Personal,18:30:00,22:13:00,Del FabLab,11 g,,16/10/2019,42
+15/11/2019 12:19:45,Fernanda Silva,Beatriz Latorre,Impresora 3D - 1,66,PLA,,Estudiante/Uso Personal,11:32:00,12:38:00,Del FabLab,3 g,,17/10/2019,42
+15/11/2019 12:21:14,Fernanda Silva,Felipe Vergara,Impresora 3D - 1,90,PLA,,Interno/Publicidad,14:00:00,15:30:00,Del FabLab,6 g,,17/10/2019,42
+15/11/2019 12:22:36,Fernanda Silva,Felipe Vergara,Impresora 3D - 1,"39,99999999",PLA,,Interno/Capacitación/USM,15:30:00,16:10:00,Facilitado por quien solicito el trabajo,,,17/10/2019,42
+15/11/2019 12:24:35,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 5,35,PLA,,Estudiante/Uso Personal,17:16:00,17:51:00,Del FabLab,38 g,,17/10/2019,42
+15/11/2019 12:25:27,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 4,35,PLA,,Estudiante/Uso Personal,17:25:00,18:00:00,Del FabLab,6 g,,17/10/2019,42
+16/11/2019 19:16:04,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,127,PLA,,Estudiante/Uso Personal,17:53:00,20:00:00,Del FabLab,38 g,,17/10/2019,42
+16/11/2019 19:18:21,Fernanda Silva,Beatriz Latorre,Impresora 3D - 1,"23,99999999",PLA,,Estudiante/Uso Personal,14:48:00,15:12:00,Del FabLab,2 g,,18/10/2019,42
+16/11/2019 19:20:24,Fernanda Silva,Beatriz Latorre,Impresora 3D - 4,35,PLA,,Estudiante/Uso Personal,15:23:00,15:58:00,Del FabLab,1 g,,18/10/2019,42
+16/11/2019 19:21:22,Fernanda Silva,Javier De la Cerda,Impresora 3D - 1,120,PLA,,Interno/Desarrollo,16:00:00,18:00:00,Del FabLab,33 g,,18/10/2019,42
+16/11/2019 19:22:44,Fernanda Silva,Pia Osses,Impresora 3D - 4,"8,000000005",PLA,,Interno/Desarrollo,18:00:00,18:08:00,Del FabLab,1 g,,18/10/2019,42
+16/11/2019 19:23:47,Fernanda Silva,Pia Osses,Impresora 3D - 4,12,PLA,,Interno/Desarrollo,18:46:00,18:58:00,Del FabLab,1 g,,18/10/2019,42
+16/11/2019 19:25:06,Fernanda Silva,Pia Osses,Impresora 3D - 1,120,PLA,,Interno/Desarrollo,19:00:00,21:00:00,Del FabLab,1 g,,18/10/2019,42
+16/11/2019 19:28:48,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 4,"50,00000001",PLA,,Estudiante/Por Asignatura,11:20:00,12:10:00,Del FabLab,20 g,,29/10/2019,44
+16/11/2019 19:30:42,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 4,30,PLA,,Estudiante/Por Asignatura,12:10:00,12:40:00,Del FabLab,20 g,,29/10/2019,44
+16/11/2019 19:32:17,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,132,PLA,,Estudiante/Por Asignatura,14:30:00,16:42:00,Del FabLab,15 g,,29/10/2019,44
+16/11/2019 19:33:52,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,97,PLA,,Estudiante/Por Asignatura,9:43:00,11:20:00,Del FabLab,20 g,,30/10/2019,44
+16/11/2019 19:38:39,Fernanda Silva,Álvaro Burgos,Router CNC - PRSStandar,"8,999999987",MDF,,Estudiante/Proyecto Inscrito FabLab,18:47:00,18:56:00,Facilitado por quien solicito el trabajo,,Ergon,18/10/2019,42
+16/11/2019 19:45:03,Fernanda Silva,Aaron Checura,Cortadora Laser - X252,60,MDF,,Interno/Mantenimiento,15:00:00,16:00:00,Del FabLab,,,8/10/2019,41
+16/11/2019 19:47:36,Fernanda Silva,José Tomás Domínguez,Cortadora Laser - X252,20,MDF,,Interno/Capacitación/USM,14:20:00,14:40:00,Del FabLab,,,11/10/2019,41
+16/11/2019 19:49:10,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,20,MDF,,Estudiante/Uso Personal,18:00:00,18:20:00,Facilitado por quien solicito el trabajo,,,15/10/2019,42
+16/11/2019 19:50:46,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,11,MDF,,Estudiante/Uso Personal/Halloween,13:00:00,13:11:00,Facilitado por quien solicito el trabajo,,,16/10/2019,42
+16/11/2019 19:53:41,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,"19,99999999",MDF,,Estudiante/Uso Personal/Halloween,18:30:00,18:50:00,Facilitado por quien solicito el trabajo,,,16/10/2019,42
+16/11/2019 20:02:36,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,30,Acrilico,,Estudiante/Uso Personal,19:10:00,19:40:00,Facilitado por quien solicito el trabajo,,,18/10/2019,42
+16/11/2019 20:05:31,Fernanda Silva,José Santibáñez,Cortadora Laser - X252,"18,00000001",MDF,,Estudiante/Proyecto Inscrito FabLab,17:20:00,17:38:00,Del FabLab,,,5/11/2019,45
+16/11/2019 20:06:36,Fernanda Silva,José Santibáñez,Cortadora Laser - X500III,"19,99999999",MDF,,Estudiante/Proyecto Inscrito FabLab,18:40:00,19:00:00,Facilitado por quien solicito el trabajo,,,5/11/2019,45
+16/11/2019 20:09:11,Fernanda Silva,José Santibáñez,Cortadora Laser - X500III,40,MDF,,Estudiante/Proyecto Inscrito FabLab,13:00:00,13:40:00,Del FabLab,,,5/11/2019,45
+16/11/2019 20:10:22,Fernanda Silva,José Santibáñez,Cortadora Laser - X500III,10,Acrilico,,Estudiante/Proyecto Inscrito FabLab,11:53:00,12:03:00,Del FabLab,,,7/11/2019,45
+16/11/2019 20:11:02,Fernanda Silva,José Santibáñez,Cortadora Laser - X500III,"4,000000003",Acrilico,,Estudiante/Proyecto Inscrito FabLab,12:03:00,12:07:00,Del FabLab,,,7/11/2019,45
+16/11/2019 20:12:02,Fernanda Silva,José Santibáñez,Cortadora Laser - X500III,"8,000000005",Acrilico,,Estudiante/Proyecto Inscrito FabLab,12:09:00,12:17:00,Del FabLab,,,7/11/2019,45
+16/11/2019 20:13:11,Fernanda Silva,José Santibáñez,Cortadora Laser - X500III,"1,000000003",MDF,,Estudiante/Proyecto Inscrito FabLab,12:38:00,12:39:00,Del FabLab,,,7/11/2019,45
+16/11/2019 20:14:32,Fernanda Silva,José Santibáñez,Cortadora Laser - X500III,28,MDF,,Estudiante/Uso Personal,14:30:00,14:58:00,Del FabLab,,,11/11/2019,46
+16/11/2019 20:15:17,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,11,MDF,,Estudiante/Uso Personal,16:00:00,16:11:00,Del FabLab,,,11/11/2019,46
+16/11/2019 20:16:17,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,136,Acrilico,,Estudiante/Uso Personal,15:50:00,18:06:00,Facilitado por quien solicito el trabajo,,,11/11/2019,46
+16/11/2019 20:18:56,Fernanda Silva,José Tomás Domínguez,Cortadora Laser - X500III,173,MDF,,Estudiante/Proyecto Inscrito FabLab,15:00:00,17:53:00,Facilitado por quien solicito el trabajo,,,13/11/2019,46
+19/11/2019 14:06:20,Vicente Lueiza,José Santibáñez,Impresora 3D - 5,32,PLA,,Estudiante/Uso Personal,14:23:00,14:55:00,Del FabLab,3 [g],,5/11/2019,45
+19/11/2019 14:07:33,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,10,PLA,,Estudiante/Uso Personal,16:10:00,16:20:00,Del FabLab,2 [g],,5/11/2019,45
+19/11/2019 14:08:39,Vicente Lueiza,José Santibáñez,Impresora 3D - 5,190,PLA,,Estudiante/Uso Personal,16:05:00,19:15:00,Del FabLab,32 [g],,5/11/2019,45
+19/11/2019 14:36:35,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,1110,PLA,,Estudiante/Proyecto Inscrito FabLab,18:30:00,0:00:00,Del FabLab,43 [g],,5/11/2019,45
+19/11/2019 14:38:36,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,60,PLA,,Estudiante/Proyecto Inscrito FabLab,15:00:00,16:00:00,Del FabLab,25 [g],,5/11/2019,45
+19/11/2019 14:55:54,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,60,PLA,,Estudiante/Uso Personal,15:00:00,16:00:00,Del FabLab,31 [g],,5/11/2019,45
+19/11/2019 15:03:37,Vicente Lueiza,José Santibáñez,Impresora 3D - 4,160,PLA,,Estudiante/Uso Personal,12:50:00,15:30:00,Del FabLab,25 [g],,7/11/2019,45
+19/11/2019 15:05:56,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,"87,99999999",PLA,,Estudiante/Uso Personal,16:32:00,18:00:00,Del FabLab,14 [g],,7/11/2019,45
+19/11/2019 15:06:49,Vicente Lueiza,José Santibáñez,Impresora 3D - 4,163,PLA,,Estudiante/Uso Personal,16:32:00,19:15:00,Del FabLab,25 [g],,7/11/2019,45
+19/11/2019 15:13:20,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,180,PLA,,Estudiante/Uso Personal,18:26:00,21:26:00,Del FabLab,27 [g],,7/11/2019,45
+19/11/2019 15:14:58,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,206,PLA,,Estudiante/Uso Personal,10:47:00,14:13:00,Del FabLab,40 [g],,8/11/2019,45
+19/11/2019 15:15:55,Vicente Lueiza,José Santibáñez,Impresora 3D - 1,100,PLA,,Estudiante/Uso Personal,12:00:00,13:40:00,Del FabLab,19 [g],,9/11/2019,45
+19/11/2019 15:17:17,Vicente Lueiza,José Santibáñez,Impresora 3D - 1,204,PLA,,Estudiante/Uso Personal,14:40:00,18:04:00,Del FabLab,34 [g],,7/11/2019,45
+19/11/2019 15:19:58,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,107,PLA,,Estudiante/Uso Personal,15:26:00,17:13:00,Del FabLab,15 [g],,8/11/2019,45
+20/11/2019 10:31:43,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 1,"39,99999999",PLA,,Estudiante/Proyecto Inscrito FabLab,13:25:00,14:05:00,Del FabLab,5 [g],,9/11/2109,45
+20/11/2019 10:32:38,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,"42,99999999",PLA,,Estudiante/Uso Personal,12:40:00,13:23:00,Del FabLab,6 [g],,11/11/2019,46
+20/11/2019 10:34:19,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,38,PLA,,Estudiante/Uso Personal,13:50:00,14:28:00,Del FabLab,5 [g],,11/11/2019,46
+20/11/2019 10:37:59,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 1,118,PLA,,Estudiante/Proyecto Inscrito FabLab,14:26:00,16:24:00,Del FabLab,15 [g],,11/11/2019,46
+20/11/2019 10:39:36,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,114,PLA,,Estudiante/Proyecto Inscrito FabLab,14:51:00,16:45:00,Del FabLab,19 [g],,11/11/2019,46
+20/11/2019 10:41:36,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,41,PLA,,Estudiante/Uso Personal,16:49:00,17:30:00,Del FabLab,8 [g],,11/11/2019,46
+20/11/2019 10:43:25,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,208,PLA,,Estudiante/Proyecto Inscrito FabLab,9:32:00,13:00:00,Del FabLab,19 [g],,13/11/2019,46
+20/11/2019 10:45:15,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,194,PLA,,Estudiante/Proyecto Inscrito FabLab,13:30:00,16:44:00,Del FabLab,18 [g],,13/11/2019,46
+20/11/2019 10:46:29,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,187,PLA,,Estudiante/Proyecto Inscrito FabLab,16:53:00,20:00:00,Del FabLab,19 [g],,13/11/2019,46
+20/11/2019 10:47:17,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,345,PLA,,Estudiante/Proyecto Inscrito FabLab,15:30:00,21:15:00,Del FabLab,51 [g],,14/11/2019,46
+20/11/2019 10:54:26,Vicente Lueiza,Benjamín Espinoza,Impresora 3D - 4,210,PLA,,Estudiante/Por Asignatura,10:30:00,14:00:00,Del FabLab,8 [g],,15/11/2019,46
+20/11/2019 10:57:06,Vicente Lueiza,José Santibáñez,Impresora 3D - 2,205,TPU,,Estudiante/Uso Personal,12:41:00,16:06:00,Del FabLab,19 [g],,15/11/2109,46
+20/11/2019 10:58:04,Vicente Lueiza,José Santibáñez,Impresora 3D - 3,39,PLA,,Estudiante/Uso Personal,16:36:00,17:15:00,Del FabLab,4 [g],,15/11/2019,46
+20/11/2019 10:58:58,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,448,PLA,,Estudiante/Proyecto Inscrito FabLab,10:47:00,18:15:00,Del FabLab,29 [g],,16/11/2019,46
+20/11/2019 11:00:17,Vicente Lueiza,Derick Vidal,Impresora 3D - 1,419,PLA,,Estudiante/Por Asignatura,11:45:00,18:44:00,Facilitado por quien solicito el trabajo,,,18/11/2019,47
+20/11/2019 11:01:54,Vicente Lueiza,Tomás Nuñez,Impresora 3D - 3,86,PLA,,Estudiante/Uso Personal,13:56:00,15:22:00,Del FabLab,1 [g],,18/11/2019,47
+20/11/2019 11:02:47,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,156,PLA,,Estudiante/Proyecto Inscrito FabLab,17:24:00,20:00:00,Del FabLab,30 [g],,18/11/2019,47
+20/11/2019 11:07:48,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 4,259,PETG,,Estudiante/Proyecto Inscrito FabLab,18:11:00,22:30:00,Del FabLab,20 [g],,18/11/2019,47
+20/11/2019 11:09:25,Vicente Lueiza,José Santibáñez,Impresora 3D - 1,"86,00000001",PLA,,Estudiante/Uso Personal,18:44:00,20:10:00,Del FabLab,14 [g],,18/11/2019,47
+20/11/2019 11:12:12,Vicente Lueiza,José Tomás Domínguez,Impresora 3D - 3,44,PLA,,Estudiante/Proyecto Inscrito FabLab,9:16:00,10:00:00,Del FabLab,6 [g],,19/11/2019,47
+20/11/2019 11:13:42,Vicente Lueiza,Tomás Nuñez,Impresora 3D - 1,240,PLA,,Estudiante/Proyecto Inscrito FabLab,14:00:00,18:00:00,Del FabLab,42 [g],,19/11/2019,47
+20/11/2019 11:14:55,Vicente Lueiza,José Santibáñez,Impresora 3D - 1,47,PLA,,Estudiante/Uso Personal,18:36:00,19:23:00,Del FabLab,5 [g],,19/11/2019,47
+20/11/2019 11:19:27,Vicente Lueiza,Tomás Nuñez,Cortadora Laser - Bodor,"29,99999999",MDF,,Estudiante/Uso Personal,14:10:00,14:40:00,Facilitado por quien solicito el trabajo,,,14/11/2019,46
+20/11/2019 11:27:27,Vicente Lueiza,José Santibáñez,Cortadora Laser - Bodor,"5,000000006",Cuero,,Estudiante/Uso Personal,16:00:00,16:05:00,Facilitado por quien solicito el trabajo,,,18/11/2019,47
+20/11/2019 11:28:55,Vicente Lueiza,Ávaro Lopez,Cortadora Laser - Bodor,"74,99999999",Cuero,,Estudiante/Uso Personal,16:12:00,17:27:00,Facilitado por quien solicito el trabajo,,,18/11/2019,47
+20/11/2019 11:31:31,Vicente Lueiza,Felipe Vergara,Cortadora Laser - Bodor,49,Acrilico,,Estudiante/Uso Personal,12:00:00,12:49:00,Facilitado por quien solicito el trabajo,,,19/11/2019,47
+20/11/2019 11:32:27,Vicente Lueiza,Tomás Nuñez,Cortadora Laser - X252,"2,000000007",MDF,,Estudiante/Proyecto Inscrito FabLab,13:55:00,13:57:00,Facilitado por quien solicito el trabajo,,,19/11/2019,47
+20/11/2019 11:35:40,Vicente Lueiza,José Santibáñez,Router CNC - Desktop 1,15,Technyl,,Estudiante/Uso Personal,18:00:00,18:15:00,Facilitado por quien solicito el trabajo,,,18/11/2019,47
+27/11/2019 16:48:43,Fernanda Silva,Maximiliano Rivera,Cortadora Laser - X252,"21,00000001",MDF,,Profesor/Uso Personal,17:30:00,17:51:00,Facilitado por quien solicito el trabajo,,,16/10/2019,42
+27/11/2019 16:49:35,Fernanda Silva,Maximiliano Rivera,Cortadora Laser - X252,25,MDF,,Profesor/Uso Personal,17:00:00,17:25:00,Facilitado por quien solicito el trabajo,,,16/10/2019,42
+28/11/2019 11:50:16,Fernanda Silva,Pamela Ureta,Cortadora Laser - X252,33,MDF,,Estudiante/Uso Personal,14:56:00,15:29:00,Del FabLab,,,7/11/2019,45
+28/11/2019 11:51:20,Fernanda Silva,Pamela Ureta,Cortadora Laser - X252,11,MDF,,Estudiante/Uso Personal,15:41:00,15:52:00,Del FabLab,,,7/11/2019,45
+28/11/2019 11:53:00,Fernanda Silva,Tomás Lonza,Cortadora Laser - Bodor,80,MDF,,Estudiante/Uso Personal,17:00:00,18:20:00,Facilitado por quien solicito el trabajo,,,7/11/2019,45
+28/11/2019 11:54:38,Fernanda Silva,Nicolás Pacheco,Router CNC - PRSStandar,350,MDF,,Empresa/Pyme,15:20:00,21:10:00,Facilitado por quien solicito el trabajo,,Ioled,5/11/2019,45
+28/11/2019 11:55:41,Fernanda Silva,Nicolás Pacheco,Router CNC - PRSStandar,311,MDF,,Empresa/Pyme,10:15:00,15:26:00,Facilitado por quien solicito el trabajo,,Ioiled,6/11/2019,45
+28/11/2019 11:56:42,Fernanda Silva,Nicolás Pacheco,Router CNC - PRSStandar,90,MDF,,Empresa/Pyme,18:35:00,20:05:00,Facilitado por quien solicito el trabajo,,Ioled,6/11/2019,45
+28/11/2019 11:57:31,Fernanda Silva,Nicolás Pacheco,Router CNC - PRSStandar,103,MDF,,Empresa/Pyme,14:26:00,16:09:00,Facilitado por quien solicito el trabajo,,Ioled,7/11/2019,45
+28/11/2019 11:58:43,Fernanda Silva,Nicolás Pacheco,Router CNC - PRSStandar,182,MDF,,Empresa/Pyme,17:40:00,20:42:00,Facilitado por quien solicito el trabajo,,Ioled,10/11/2019,46
+28/11/2019 12:00:31,Fernanda Silva,Nicolás Pacheco,Router CNC - PRSStandar,265,MDF,,Empresa/Pyme,11:15:00,15:40:00,Facilitado por quien solicito el trabajo,,Ioled,11/11/2019,46
+28/11/2019 12:02:02,Fernanda Silva,Nicolás Pacheco,Router CNC - PRSStandar,133,MDF,,Empresa/Pyme,11:00:00,13:13:00,Facilitado por quien solicito el trabajo,,Ioled,13/11/2019,46
+28/11/2019 12:05:16,Fernanda Silva,Benjamín Espinoza,Impresora 3D - 1,"66,00000001",PLA,,Estudiante/Uso Personal/Navidad,17:39:00,18:45:00,Del FabLab,,,16/10/2019,42
+28/11/2019 12:06:53,Fernanda Silva,Benjamín Espinoza,Impresora 3D - 4,70,PLA,,Estudiante/Por Asignatura,10:20:00,11:30:00,Del FabLab,8 g,,17/10/2019,42
+28/11/2019 12:08:50,Fernanda Silva,Benjamín Espinoza,Impresora 3D - 3,710,PLA,,Estudiante/Navidad,10:10:00,22:00:00,Del FabLab,83 g,,18/10/2019,42
+28/11/2019 12:11:08,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 2,192,PLA,,Estudiante/Proyecto Inscrito FabLab,10:48:00,14:00:00,Del FabLab,12 g,Ergon,29/10/2019,44
+28/11/2019 12:12:56,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 3,280,PLA,,Estudiante/Proyecto Inscrito FabLab,12:50:00,17:30:00,Del FabLab,24 g,Ergon,29/10/2019,44
+28/11/2019 12:14:09,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 3,245,PLA,,Estudiante/Proyecto Inscrito FabLab,9:25:00,13:30:00,Del FabLab,24 g,ergon,30/10/2019,44
+28/11/2019 12:16:35,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 4,319,PLA,,Estudiante/Proyecto Inscrito FabLab,11:41:00,17:00:00,Del FabLab,24 g,ergon,30/10/2019,44
+28/11/2019 12:17:32,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,283,PLA,,Estudiante/Proyecto Inscrito FabLab,11:57:00,16:40:00,Del FabLab,24 g,ergon,30/10/2019,44
+28/11/2019 12:18:54,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 3,300,PLA,,Estudiante/Proyecto Inscrito FabLab,12:00:00,17:00:00,Del FabLab,24 g,ergon,30/10/2019,44
+28/11/2019 12:19:45,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,158,PLA,,Estudiante/Proyecto Inscrito FabLab,10:42:00,13:20:00,Del FabLab,24 g,ergon,31/10/2019,44
+28/11/2019 12:22:07,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 3,"82,00000001",PLA,,Estudiante/Proyecto Inscrito FabLab,14:42:00,13:20:00,Del FabLab,24 g,ergon,31/10/2019,44
+28/11/2019 12:26:36,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 4,158,PLA,,Estudiante/Proyecto Inscrito FabLab,10:42:00,13:20:00,Del FabLab,24 g,ergon,31/10/2019,44
+28/11/2019 12:27:58,Fernanda Silva,Horacio Domínguez,Impresora 3D - 3,33,PLA,,Estudiante/Uso Personal,13:50:00,14:23:00,Del FabLab,3 g,,31/10/2019,44
+28/11/2019 12:29:37,Fernanda Silva,Horacio Domínguez,Impresora 3D - 3,"36,99999999",PLA,,Estudiante/Uso Personal,14:23:00,15:00:00,Del FabLab,4 g,,31/10/2019,44
+28/11/2019 12:30:27,Fernanda Silva,Horacio Domínguez,Impresora 3D - 1,21,PLA,,Estudiante/Uso Personal,14:42:00,15:03:00,Del FabLab,2 g,,31/10/2019,44
+28/11/2019 12:32:04,Fernanda Silva,Horacio Domínguez,Impresora 3D - 3,220,PLA,,Estudiante/Uso Personal,15:20:00,19:00:00,Del FabLab,48 g,,31/10/2019,44
+28/11/2019 12:33:07,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 1,130,PLA,,Estudiante/Proyecto Inscrito FabLab,11:20:00,13:30:00,Del FabLab,12 g,ergon,2/11/2019,44
+28/11/2019 12:34:40,Fernanda Silva,José Tomás Domínguez,Impresora 3D - 3,230,PLA,,Estudiante/Proyecto Inscrito FabLab,11:20:00,15:10:00,Del FabLab,12 g,ergon,2/11/2019,44
+28/11/2019 12:37:53,Fernanda Silva,Horacio Domínguez,Impresora 3D - 4,302,PLA,,Estudiante/Uso Personal,10:58:00,16:00:00,Del FabLab,63 g,,4/11/2019,45
+28/11/2019 12:39:14,Fernanda Silva,Horacio Domínguez,Impresora 3D - 4,302,PLA,,Estudiante/Uso Personal,10:58:00,16:00:00,Del FabLab,63 g,,4/11/2019,45
+3/12/2019 14:42:55,Francisco Fernandez,Diego Vera,Impresora 3D - 4,560,PLA,,Estudiante/Proyecto Inscrito FabLab,9:50:00,0:30:00,Facilitado por quien solicito el trabajo,,,20/11/2019,47
+3/12/2019 14:45:46,Francisco Fernandez,Diego Vera,Impresora 3D - 3,690,PLA,,Estudiante/Proyecto Inscrito FabLab,12:00:00,0:30:00,Facilitado por quien solicito el trabajo,,,20/11/2019,47
+3/12/2019 14:48:18,Francisco Fernandez,José Tomás Domínguez,Impresora 3D - 1,157,PLA,,Estudiante/Proyecto Inscrito FabLab,12:23:00,15:00:00,Del FabLab,19g,,20/11/2019,47
+3/12/2019 14:50:13,Francisco Fernandez,Daniel Maurel,Impresora 3D - 5,285,PLA,,Estudiante/Uso Personal,14:15:00,19:00:00,Facilitado por quien solicito el trabajo,,,20/11/2019,47
+3/12/2019 14:54:49,Francisco Fernandez,Derick Vidal,Impresora 3D - 1,120,PLA,Uso personal = Memoria,Estudiante/Uso Personal,15:30:00,17:30:00,Facilitado por quien solicito el trabajo,,,20/11/2019,47
+3/12/2019 15:10:06,Francisco Fernandez,Rodrigo Tallar,Impresora 3D - 2,100,PLA,,Estudiante/Uso Personal,16:01:00,17:41:00,Del FabLab,4g,,20/11/2019,47
+3/12/2019 15:15:02,Francisco Fernandez,Beatriz Latorre,Impresora 3D - 4,117,PLA,,Estudiante/Uso Personal,12:33:00,14:30:00,Del FabLab,4g,,21/11/2019,47
+3/12/2019 15:18:15,Francisco Fernandez,Daniel Maurel,Impresora 3D - 5,248,PLA,,Estudiante/Uso Personal,14:52:00,19:00:00,Facilitado por quien solicito el trabajo,,,21/11/2019,47
+3/12/2019 15:20:38,Francisco Fernandez,Derick Vidal,Impresora 3D - 1,180,PLA,Uso personal = Memoria,Estudiante/Uso Personal,15:30:00,18:30:00,Facilitado por quien solicito el trabajo,,,21/11/2019,47
+3/12/2019 15:22:19,Francisco Fernandez,Pablo Albornoz,Impresora 3D - 4,976,PLA,,Estudiante/Uso Personal,16:16:00,0:00:00,Del FabLab,11g,,21/11/2019,47
+3/12/2019 15:24:25,Francisco Fernandez,Pablo Albornoz,Impresora 3D - 4,250,PLA,,Estudiante/Uso Personal,0:00:00,4:10:00,Del FabLab,11g,,22/11/2019,47
+3/12/2019 15:26:47,Francisco Fernandez,Derick Vidal,Impresora 3D - 1,153,PLA,Uso personal = Memoria,Estudiante/Uso Personal,13:12:00,15:45:00,Facilitado por quien solicito el trabajo,,,22/11/2019,47
+3/12/2019 15:28:11,Francisco Fernandez,Daniel Maurel,Impresora 3D - 5,240,PLA,,Estudiante/Uso Personal,13:30:00,17:30:00,Facilitado por quien solicito el trabajo,,,22/11/2019,47
+3/12/2019 15:30:02,Francisco Fernandez,Pablo Albornoz,Impresora 3D - 4,240,PLA,,Estudiante/Uso Personal,17:40:00,21:40:00,Del FabLab,20g,,22/11/2019,47
+3/12/2019 15:33:40,Francisco Fernandez,Derick Vidal,Impresora 3D - 1,214,PLA,Uso personal = Memoria,Estudiante/Uso Personal,10:12:00,13:46:00,Facilitado por quien solicito el trabajo,,,25/11/2019,48
+3/12/2019 15:35:40,Francisco Fernandez,José Santibáñez,Impresora 3D - 3,"99,99999999",PLA,,Estudiante/Proyecto Inscrito FabLab,11:17:00,12:57:00,Del FabLab,9g,Otro,25/11/2019,48
+3/12/2019 15:37:07,Francisco Fernandez,Derick Vidal,Impresora 3D - 1,200,PLA,Uso personal = Memoria,Estudiante/Uso Personal,14:10:00,17:30:00,Facilitado por quien solicito el trabajo,,,25/11/2019,48
+3/12/2019 15:38:43,Francisco Fernandez,Felipe Vergara,Impresora 3D - 2,120,PLA,,Estudiante/Uso Personal,15:30:00,17:30:00,Del FabLab,5g,,25/11/2019,48
+3/12/2019 15:42:13,Francisco Fernandez,Diego Vera,Impresora 3D - 4,60,PLA,,Estudiante/Proyecto Inscrito FabLab,16:15:00,17:15:00,Facilitado por quien solicito el trabajo,,,25/11/2019,48
+3/12/2019 15:43:31,Francisco Fernandez,Diego Vera,Impresora 3D - 2,121,PLA,,Estudiante/Proyecto Inscrito FabLab,17:20:00,19:21:00,Facilitado por quien solicito el trabajo,,,25/11/2019,48
+3/12/2019 15:45:37,Francisco Fernandez,José Santibáñez,Impresora 3D - 5,90,PLA,,Estudiante/Proyecto Inscrito FabLab,17:31:00,19:01:00,Del FabLab,3g,,25/11/2019,48
+3/12/2019 15:47:08,Francisco Fernandez,José Santibáñez,Impresora 3D - 5,30,PLA,,Estudiante/Proyecto Inscrito FabLab,18:15:00,18:45:00,Del FabLab,3g,,25/11/2019,48
+3/12/2019 15:51:04,Francisco Fernandez,José Santibáñez,Impresora 3D - 5,"8,999999998",PLA,,Estudiante/Proyecto Inscrito FabLab,19:00:00,19:09:00,Del FabLab,1g,,25/11/2019,48
+3/12/2019 15:53:42,Francisco Fernandez,Tomás Nuñez,Impresora 3D - 3,500,PLA,,Estudiante/Proyecto Inscrito FabLab,9:00:00,17:20:00,Del FabLab,20g,,26/11/2019,48
+3/12/2019 15:55:10,Francisco Fernandez,Fernanda Silva,Impresora 3D - 5,160,PLA,,Estudiante/Uso Personal/Navidad,11:00:00,13:40:00,Del FabLab,39g,,26/11/2019,48
+3/12/2019 15:56:54,Francisco Fernandez,José Santibáñez,Impresora 3D - 1,"23,00000001",PLA,,Estudiante/Proyecto Inscrito FabLab,11:26:00,11:49:00,Del FabLab,2g,,26/11/2019,48
+3/12/2019 15:58:44,Francisco Fernandez,Diego Vera,Impresora 3D - 2,480,PLA,,Estudiante/Proyecto Inscrito FabLab,11:30:00,19:30:00,Facilitado por quien solicito el trabajo,,,26/11/2019,48
+3/12/2019 16:00:21,Francisco Fernandez,José Santibáñez,Impresora 3D - 1,597,PLA,,Estudiante/Proyecto Inscrito FabLab,12:18:00,22:15:00,Del FabLab,12g,,26/11/2019,48
+3/12/2019 16:01:56,Francisco Fernandez,Diego Vera,Impresora 3D - 4,420,PLA,,Estudiante/Proyecto Inscrito FabLab,12:30:00,19:30:00,Facilitado por quien solicito el trabajo,,,26/11/2019,48
+3/12/2019 16:03:39,Francisco Fernandez,José Santibáñez,Impresora 3D - 1,45,PLA,,Estudiante/Uso Personal,15:26:00,16:11:00,Del FabLab,3g,,26/11/2019,48
+3/12/2019 16:05:52,Francisco Fernandez,José Tomás Domínguez,Impresora 3D - 1,94,PLA,,Estudiante/Proyecto Inscrito FabLab,17:56:00,19:30:00,Del FabLab,1g,,26/11/2019,48
+3/12/2019 16:08:03,Francisco Fernandez,Ignacio Correa,Impresora 3D - 1,242,PLA,Ergon,Estudiante/Proyecto Inscrito FabLab,12:19:00,16:21:00,Del FabLab,24g,,26/11/2019,48
+3/12/2019 16:09:31,Francisco Fernandez,Carla Nazer,Impresora 3D - 4,180,PLA,,Estudiante/Uso Personal/Navidad,12:25:00,15:25:00,Del FabLab,9g,,26/11/2019,48
+3/12/2019 16:10:50,Francisco Fernandez,Carla Nazer,Impresora 3D - 3,611,PLA,,Estudiante/Uso Personal/Navidad,12:49:00,23:00:00,Del FabLab,36g,,26/11/2019,48
+3/12/2019 16:12:27,Francisco Fernandez,Fernanda Silva,Impresora 3D - 2,207,PLA,,Estudiante/Uso Personal/Navidad,14:00:00,17:27:00,Del FabLab,25g,,27/11/2019,48
+3/12/2019 16:13:52,Francisco Fernandez,José Santibáñez,Impresora 3D - 5,29,PLA,,Estudiante/Proyecto Inscrito FabLab,14:32:00,15:01:00,Del FabLab,4g,,27/11/2019,48
+3/12/2019 16:16:34,Francisco Fernandez,José Santibáñez,Impresora 3D - 5,"4,999999995",PLA,,Estudiante/Proyecto Inscrito FabLab,15:36:00,15:41:00,Del FabLab,1g,,27/11/2019,48
+3/12/2019 16:18:08,Francisco Fernandez,Felipe Vergara,Impresora 3D - 5,"99,99999999",PLA,,Estudiante/Uso Personal,15:40:00,17:20:00,Del FabLab,8g,,27/11/2019,48
+3/12/2019 16:21:13,Francisco Fernandez,Diego Vera,Impresora 3D - 4,670,PLA,,Estudiante/Proyecto Inscrito FabLab,11:30:00,22:40:00,Facilitado por quien solicito el trabajo,,,27/11/2019,48
+3/12/2019 16:22:19,Francisco Fernandez,Diego Vera,Impresora 3D - 2,570,PLA,,Estudiante/Proyecto Inscrito FabLab,11:30:00,21:00:00,Facilitado por quien solicito el trabajo,,,27/11/2019,48
+3/12/2019 16:23:28,Francisco Fernandez,Aaron Checura,Impresora 3D - 1,147,PLA,,Estudiante/Proyecto Inscrito FabLab,10:33:00,13:00:00,Facilitado por quien solicito el trabajo,,,28/11/2019,48
+3/12/2019 16:25:42,Francisco Fernandez,Alejandra Cona,Impresora 3D - 4,13,PLA,,Estudiante/Uso Personal,10:57:00,11:10:00,Del FabLab,2g,,28/11/2019,48
+3/12/2019 16:27:56,Francisco Fernandez,José Santibáñez,Impresora 3D - 1,88,PLA,,Estudiante/Proyecto Inscrito FabLab,11:14:00,12:42:00,Del FabLab,15g,,28/11/2019,48
+3/12/2019 16:29:16,Francisco Fernandez,Aaron Checura,Impresora 3D - 4,86,PLA,,Estudiante/Proyecto Inscrito FabLab,12:40:00,14:06:00,Facilitado por quien solicito el trabajo,,,28/11/2019,48
+3/12/2019 16:30:38,Francisco Fernandez,Beatriz Latorre,Impresora 3D - 3,"93,99999999",PLA,,Estudiante/Uso Personal,14:03:00,15:37:00,Del FabLab,5g,,28/11/2019,48
+3/12/2019 16:31:42,Francisco Fernandez,Aaron Checura,Impresora 3D - 1,45,PLA,,Estudiante/Proyecto Inscrito FabLab,14:00:00,14:45:00,Facilitado por quien solicito el trabajo,,,28/11/2019,48
+3/12/2019 16:33:05,Francisco Fernandez,Felipe Vergara,Impresora 3D - 2,"34,00000001",PLA,,Estudiante/Uso Personal,14:26:00,15:00:00,Del FabLab,10g,,28/11/2019,48
+3/12/2019 16:34:16,Francisco Fernandez,Diego Vera,Impresora 3D - 3,510,PLA,,Estudiante/Proyecto Inscrito FabLab,15:00:00,23:30:00,Facilitado por quien solicito el trabajo,,,28/11/2019,48
+3/12/2019 16:35:33,Francisco Fernandez,Aaron Checura,Impresora 3D - 1,202,PLA,,Interno/Mantenimiento,11:22:00,14:44:00,Del FabLab,0g,,29/11/2019,48
+3/12/2019 16:37:24,Francisco Fernandez,Aaron Checura,Impresora 3D - 2,153,PLA,,Interno/Mantenimiento,11:22:00,13:55:00,Del FabLab,0g,,29/11/2019,48
+3/12/2019 16:38:43,Francisco Fernandez,Aaron Checura,Impresora 3D - 3,203,PLA,,Interno/Mantenimiento,11:22:00,14:45:00,Del FabLab,0g,,29/11/2019,48
+3/12/2019 16:40:46,Francisco Fernandez,Aaron Checura,Impresora 3D - 4,132,PLA,,Interno/Mantenimiento,11:22:00,13:34:00,Del FabLab,0g,,29/11/2019,48
+3/12/2019 16:41:57,Francisco Fernandez,Aaron Checura,Impresora 3D - 5,153,PLA,,Interno/Mantenimiento,11:22:00,13:55:00,Del FabLab,0g,,29/11/2019,48
+3/12/2019 16:44:46,Francisco Fernandez,Derick Vidal,Impresora 3D - 1,96,PLA,Uso personal = Memoria,Estudiante/Uso Personal,11:50:00,13:26:00,Facilitado por quien solicito el trabajo,,,29/11/2019,48
+3/12/2019 16:47:20,Francisco Fernandez,Derick Vidal,Impresora 3D - 3,91,PLA,Uso personal = Memoria,Estudiante/Uso Personal,11:59:00,13:30:00,Facilitado por quien solicito el trabajo,,,29/11/2019,48
+3/12/2019 16:51:19,Francisco Fernandez,Derick Vidal,Impresora 3D - 2,91,PLA,Uso personal = Memoria,Estudiante/Uso Personal,14:13:00,15:44:00,Facilitado por quien solicito el trabajo,,,29/11/2019,48
+3/12/2019 16:54:03,Francisco Fernandez,José Tomás Domínguez,Impresora 3D - 1,960,PLA,,Estudiante/Proyecto Inscrito FabLab,16:00:00,0:00:00,Del FabLab,60g,,29/11/2019,48
+3/12/2019 16:55:33,Francisco Fernandez,José Tomás Domínguez,Impresora 3D - 2,30,PLA,,Estudiante/Proyecto Inscrito FabLab,16:00:00,16:30:00,Del FabLab,6g,,30/11/2019,48
+3/12/2019 16:57:50,Francisco Fernandez,Ignacio Correa,Impresora 3D - 3,278,PLA,,Estudiante/Uso Personal,11:22:00,16:00:00,Del FabLab,8g,,2/12/2019,49
+3/12/2019 16:59:20,Francisco Fernandez,Derick Vidal,Impresora 3D - 5,270,PLA,Uso personal = Memoria,Estudiante/Uso Personal,11:50:00,16:20:00,Facilitado por quien solicito el trabajo,,,2/12/2019,49
+3/12/2019 17:01:05,Francisco Fernandez,Ariel Reyes,Impresora 3D - 4,420,PLA,,Estudiante/Uso Personal/Navidad,12:20:00,19:20:00,Del FabLab,31g,,2/11/2019,44
+3/12/2019 17:02:39,Francisco Fernandez,Benjamín Espinoza,Impresora 3D - 2,400,PLA,,Estudiante/Uso Personal/Navidad,12:40:00,19:20:00,Del FabLab,114g,,2/12/2019,49
+3/12/2019 17:08:40,Francisco Fernandez,Derick Vidal,Impresora 3D - 1,19,PLA,Uso personal = Memoria,Estudiante/Uso Personal,15:08:00,15:27:00,Facilitado por quien solicito el trabajo,,,2/12/2019,49
+3/12/2019 17:10:09,Francisco Fernandez,Derick Vidal,Impresora 3D - 1,48,PLA,Uso personal = Memoria,Estudiante/Uso Personal,15:45:00,16:33:00,Facilitado por quien solicito el trabajo,,,2/12/2019,49
+4/12/2019 13:12:46,Vicente Lueiza,Tomás Nuñez,Cortadora Laser - X252,26,Acrilico,,Estudiante/Proyecto Inscrito FabLab,15:00:00,15:26:00,Del FabLab,,,19/11/2019,47
+4/12/2019 13:14:00,Vicente Lueiza,Tomás Nuñez,Cortadora Laser - Bodor,"38,00000001",MDF,,Estudiante/Uso Personal,16:22:00,17:00:00,Del FabLab,,,19/11/2019,47
+4/12/2019 13:18:33,Vicente Lueiza,Vicente Lueiza,Cortadora Laser - Bodor,"45,99999999",MDF,,Estudiante/Uso Personal,12:23:00,13:09:00,Del FabLab,,,20/11/2019,47
+4/12/2019 13:21:47,Vicente Lueiza,Alvaro Lopez,Cortadora Laser - Bodor,100,Cuero,,Estudiante/Uso Personal,13:14:00,14:54:00,Facilitado por quien solicito el trabajo,,,20/11/2019,47
+4/12/2019 13:24:14,Vicente Lueiza,José Santibáñez,Cortadora Laser - Bodor,10,MDF,,Estudiante/Proyecto Inscrito FabLab,14:56:00,15:06:00,Del FabLab,,,20/11/2019,47
+4/12/2019 14:05:43,Fernanda Silva,Pablo Albornoz,Cortadora Laser - Bodor,"5,999999999",MDF,,Interno/Capacitación/USM,15:40:00,15:46:00,Del FabLab,,,21/11/2019,47
+4/12/2019 14:14:07,Fernanda Silva,Tomás Lonza,Cortadora Laser - Bodor,103,MDF,,Estudiante/Uso Personal,17:37:00,19:20:00,Facilitado por quien solicito el trabajo,,,22/11/2019,47
+4/12/2019 14:15:06,Fernanda Silva,Tomás Nuñez,Cortadora Laser - Bodor,"44,00000001",MDF,,Estudiante/Uso Personal,13:00:00,13:44:00,Facilitado por quien solicito el trabajo,,,25/11/2019,48
+4/12/2019 14:15:57,Fernanda Silva,Tomás Nuñez,Cortadora Laser - Bodor,10,MDF,,Estudiante/Uso Personal,15:00:00,15:10:00,Facilitado por quien solicito el trabajo,,,25/11/2019,48
+4/12/2019 14:18:03,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,10,MDF,,Estudiante/Uso Personal,18:23:00,18:33:00,Facilitado por quien solicito el trabajo,,,25/11/2019,48
+4/12/2019 14:18:47,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,"5,000000006",MDF,,Estudiante/Uso Personal,18:35:00,18:40:00,Facilitado por quien solicito el trabajo,,,25/11/2019,48
+4/12/2019 14:19:31,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,10,MDF,,Estudiante/Uso Personal,18:10:00,18:20:00,Facilitado por quien solicito el trabajo,,,26/11/2019,48
+4/12/2019 14:20:13,Fernanda Silva,Tomás Nuñez,Cortadora Laser - Bodor,20,MDF,,Estudiante/Uso Personal,19:10:00,19:30:00,Facilitado por quien solicito el trabajo,,,26/11/2019,48
+4/12/2019 14:21:39,Fernanda Silva,José Tomás Domínguez,Cortadora Laser - Bodor,60,MDF,,Interno/Capacitación/USM,12:30:00,13:30:00,Del FabLab,,,26/11/2019,48
+4/12/2019 14:23:03,Fernanda Silva,José Santibáñez,Cortadora Laser - Bodor,"4,999999995",Acrilico,,Estudiante/Proyecto Inscrito FabLab,19:40:00,19:45:00,Del FabLab,,,26/11/2019,48
+4/12/2019 14:24:07,Fernanda Silva,José Tomás Domínguez,Cortadora Laser - Bodor,100,Acrilico,,Interno/Desarrollo,20:02:00,21:42:00,Del FabLab,,,26/11/2019,48
+4/12/2019 14:34:54,Fernanda Silva,Javier De la Cerda,Cortadora Laser - Bodor,"4,999999995",Terciado,,Interno/Desarrollo,22:30:00,22:35:00,Facilitado por quien solicito el trabajo,,,26/11/2019,48
+4/12/2019 14:37:30,Fernanda Silva,José Tomás Domínguez,Cortadora Laser - Bodor,51,Terciado,,Interno/Desarrollo,12:00:00,12:51:00,Del FabLab,,,27/11/2019,48
+4/12/2019 14:41:22,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,"8,999999998",MDF,,Estudiante/Uso Personal,16:36:00,16:45:00,Facilitado por quien solicito el trabajo,,,27/11/2019,48
+4/12/2019 14:42:09,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,23,MDF,,Estudiante/Uso Personal,17:44:00,18:07:00,Facilitado por quien solicito el trabajo,,,27/11/2019,48
+4/12/2019 14:51:35,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,"9,999999991",MDF,,Estudiante/Uso Personal,14:10:00,14:20:00,Facilitado por quien solicito el trabajo,,,28/11/2019,48
+4/12/2019 14:52:22,Vicente Lueiza,José Santibáñez,Router CNC - Desktop 1,"21,00000001",Technyl,,Estudiante/Uso Personal,16:00:00,16:21:00,Facilitado por quien solicito el trabajo,,,19/11/2019,47
+4/12/2019 14:52:44,Fernanda Silva,José Santibáñez,Cortadora Laser - Bodor,15,MDF,,Interno/Mantenimiento,15:28:00,15:43:00,Del FabLab,,,28/11/2019,48
+4/12/2019 14:53:30,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,236,Madera,,Estudiante/Uso Personal,15:32:00,19:28:00,Facilitado por quien solicito el trabajo,,,20/11/2019,47
+4/12/2019 14:53:36,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,"29,99999999",MDF,,Estudiante/Uso Personal,15:30:00,16:00:00,Facilitado por quien solicito el trabajo,,,28/11/2019,48
+4/12/2019 14:54:21,Fernanda Silva,Michael Cárdenas,Cortadora Laser - X252,"60,00000001",MDF,,Estudiante/Uso Personal,16:00:00,17:00:00,Facilitado por quien solicito el trabajo,,,28/11/2019,48
+4/12/2019 14:55:33,Fernanda Silva,Michael Cárdenas,Cortadora Laser - X252,164,MDF,,Estudiante/Uso Personal/Navidad,11:16:00,14:00:00,Del FabLab,,,29/11/2019,48
+4/12/2019 14:57:03,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,35,MDF,,Estudiante/Uso Personal,14:10:00,14:45:00,Facilitado por quien solicito el trabajo,,,29/11/2019,48
+4/12/2019 14:57:39,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,31,MDF,,Estudiante/Uso Personal,16:40:00,17:11:00,Facilitado por quien solicito el trabajo,,,29/11/2019,48
+4/12/2019 14:58:17,Fernanda Silva,Tomás Nuñez,Cortadora Laser - X252,30,MDF,,Estudiante/Uso Personal,17:30:00,18:00:00,Facilitado por quien solicito el trabajo,,,29/11/2019,48
+4/12/2019 15:05:49,Fernanda Silva,José Tomás Domínguez,Torno,24,acero,,Estudiante/Proyecto Inscrito FabLab,12:06:00,12:30:00,Facilitado por quien solicito el trabajo,,,14/11/2019,46
+4/12/2019 15:06:53,Fernanda Silva,José Santibáñez,Torno,18,technyl,,Estudiante/Proyecto Inscrito FabLab,18:00:00,18:18:00,Facilitado por quien solicito el trabajo,,,20/11/2019,47
+4/12/2019 15:07:42,Fernanda Silva,José Santibáñez,Torno,29,technyl,,Estudiante/Proyecto Inscrito FabLab,16:13:00,16:42:00,Facilitado por quien solicito el trabajo,,,21/11/2019,47
+4/12/2019 15:08:36,Fernanda Silva,José Santibáñez,Torno,23,technyl,,Estudiante/Proyecto Inscrito FabLab,17:14:00,17:37:00,Facilitado por quien solicito el trabajo,,,21/11/2019,47
+4/12/2019 15:10:24,Fernanda Silva,Eduardo Castillo,Torno,"95,00000001",304,,Empresa/Pyme,15:50:00,17:25:00,Facilitado por quien solicito el trabajo,,Khamakhe,22/11/2019,47
+4/12/2019 15:11:30,Fernanda Silva,Eduardo Castillo,Torno,180,304,,Empresa/Pyme,12:00:00,15:00:00,Facilitado por quien solicito el trabajo,,khamakhe,22/11/2019,47
+4/12/2019 15:11:54,Vicente Lueiza,Nicolás Pacheco,Router CNC - PRSStandar,349,Aluminio,,Empresa/Pyme,12:41:00,18:30:00,Facilitado por quien solicito el trabajo,,,14/11/2019,46
+4/12/2019 15:13:34,Vicente Lueiza,Nicolás Pacheco,Router CNC - PRSStandar,310,Aluminio,,Empresa/Pyme,14:50:00,20:00:00,Facilitado por quien solicito el trabajo,,,16/11/2019,46
+4/12/2019 15:13:42,Fernanda Silva,Hans Toledo,Cirqoid,110,PCB Fibra,,Estudiante/Proyecto Inscrito FabLab,14:35:00,16:25:00,Facilitado por quien solicito el trabajo,,ergon,18/11/2019,47
+4/12/2019 15:14:12,Vicente Lueiza,Nicolás Pacheco,Router CNC - PRSStandar,15,Aluminio,,Empresa/Pyme,18:00:00,18:15:00,Facilitado por quien solicito el trabajo,,,19/11/2019,47
+4/12/2019 15:14:35,Fernanda Silva,Gabriel Heckmann,Cirqoid,110,PCB Fibra,,Estudiante/Proyecto Inscrito FabLab,14:35:00,16:25:00,Facilitado por quien solicito el trabajo,,ergon,18/11/2019,47
+4/12/2019 15:15:02,Vicente Lueiza,José Santibáñez,Router CNC - Desktop 2,99,Technyl,,Estudiante/Uso Personal,16:21:00,18:00:00,Facilitado por quien solicito el trabajo,,,20/11/2019,47
+4/12/2019 15:15:20,Fernanda Silva,Gabriel Heckmann,Cirqoid,180,PCB Fibra,,Estudiante/Proyecto Inscrito FabLab,10:00:00,13:00:00,Facilitado por quien solicito el trabajo,,ergon,20/11/2019,47
+4/12/2019 15:15:59,Vicente Lueiza,José Tomás Domínguez,Router CNC - PRSStandar,159,Madera,,Estudiante/Uso Personal,10:00:00,12:39:00,Facilitado por quien solicito el trabajo,,,4/11/2019,45
+4/12/2019 15:39:45,Vicente Lueiza,Leonardo Cornejo,Router CNC - PRSStandar,45,HMN,,Empresa/Pyme,12:30:00,13:15:00,Facilitado por quien solicito el trabajo,,,22/11/2019,47
+4/12/2019 15:43:22,Vicente Lueiza,Alejandra Cona,Router CNC - PRSStandar,117,Madera,,Interno/Desarrollo,15:05:00,17:02:00,Del FabLab,,,26/11/2019,48
+4/12/2019 15:46:00,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,330,Terciado,,Interno/Desarrollo,18:00:00,23:30:00,Del FabLab,,,26/11/2019,48
+4/12/2019 15:47:44,Vicente Lueiza,José Tomás Domínguez,Router CNC - PRSStandar,90,Madera,,Interno/Capacitación/USM,14:00:00,15:30:00,Del FabLab,,,27/11/2019,48
+4/12/2019 15:49:24,Vicente Lueiza,José Tomás Domínguez,Router CNC - PRSStandar,"36,99999999",Madera,,Interno/Desarrollo,17:45:00,18:22:00,Del FabLab,,,2/12/2019,49
+4/12/2019 15:53:08,Vicente Lueiza,Javier De la Cerda,Router CNC - PRSStandar,206,Terciado,,Estudiante/Uso Personal,17:34:00,21:00:00,Facilitado por quien solicito el trabajo,,,3/12/2019,49
+4/12/2019 15:53:59,Vicente Lueiza,José Tomás Domínguez,Router CNC - PRSStandar,90,Terciado,,Interno/Desarrollo,11:30:00,13:00:00,Del FabLab,,,4/12/2019,49
+4/12/2019 15:57:47,Vicente Lueiza,Nicolas Valdebenito,Router CNC - PRSStandar,120,Terciado,,Interno/Desarrollo,13:00:00,15:00:00,Del FabLab,,,4/12/2019,49
+4/12/2019 16:46:03,Vicente Lueiza,Michael Cárdenas,Cortadora Laser - X252,45,MDF,,Estudiante/Uso Personal/Navidad,14:30:00,15:15:00,Del FabLab,30x30,,2/12/2019,49
+4/12/2019 16:48:42,Vicente Lueiza,Tomás Nuñez,Cortadora Laser - X252,30,MDF,,Estudiante/Uso Personal,14:50:00,15:20:00,Facilitado por quien solicito el trabajo,,,2/12/2019,49
+4/12/2019 16:49:32,Vicente Lueiza,Tomás Nuñez,Cortadora Laser - X252,50,MDF,Wood Experience,Estudiante/Uso Personal,15:30:00,16:20:00,Facilitado por quien solicito el trabajo,,,2/12/2019,49
+4/12/2019 16:56:19,Vicente Lueiza,Tomás Nuñez,Cortadora Laser - X252,30,MDF,,Estudiante/Uso Personal,16:40:00,17:10:00,Facilitado por quien solicito el trabajo,,,2/12/2019,49
+4/12/2019 17:00:16,Vicente Lueiza,Tomás Nuñez,Cortadora Laser - X252,"5,999999999",MDF,,Estudiante/Uso Personal,17:12:00,17:18:00,Facilitado por quien solicito el trabajo,,,2/12/2019,49
+4/12/2019 17:05:02,Vicente Lueiza,Tomás Nuñez,Cortadora Laser - X252,23,MDF,,Interno/Desarrollo,17:27:00,17:50:00,Del FabLab,59x35 [cm],,2/12/2019,49
+10/12/2019 16:28:05,Francisco Fernandez,Vicente Lueiza,Impresora 3D - 3,"23,99999999",PLA,,Interno/Capacitación/USM,18:20:00,18:44:00,Del FabLab,0g,Gabriela Prado,5/12/2019,49
+10/12/2019 16:29:37,Francisco Fernandez,Vicente Lueiza,Impresora 3D - 3,71,PLA,,Estudiante/Uso Personal/Navidad,18:45:00,19:56:00,Del FabLab,12g, Pía Osses,5/12/2019,49
+10/12/2019 16:31:31,Francisco Fernandez,Vicente Lueiza,Impresora 3D - 4,39,PLA,,Estudiante/Uso Personal/Navidad,19:11:00,19:50:00,Del FabLab,"1,48m",,5/12/2019,49
+10/12/2019 16:33:09,Francisco Fernandez,Javier De la Cerda,Impresora 3D - 5,"22,00000001",PLA,,Estudiante/Uso Personal/Navidad,19:09:00,19:31:00,Del FabLab,"1,48m",,5/12/2019,49
+10/12/2019 16:34:39,Francisco Fernandez,José Tomás Domínguez,Impresora 3D - 1,112,PLA,,Estudiante/Proyecto Inscrito FabLab,17:53:00,19:45:00,Facilitado por quien solicito el trabajo,,,5/12/2019,49
+10/12/2019 16:36:40,Francisco Fernandez,Javier De la Cerda,Impresora 3D - 3,1200,PLA,,Interno/Publicidad,20:16:00,0:16:00,Del FabLab,8g,,5/12/2019,49
+10/12/2019 16:38:44,Francisco Fernandez,Farid Salamé,Impresora 3D - 4,0,PLA,No especifico hora termino ,Estudiante/Uso Personal/Navidad,10:02:00,10:02:00,Del FabLab,41g,,6/12/2019,49
+10/12/2019 16:40:13,Francisco Fernandez,Benjamín Espinoza,Impresora 3D - 2,320,PLA,,Estudiante/Uso Personal/Navidad,10:10:00,15:30:00,Del FabLab,42g,,6/12/2019,49
+10/12/2019 16:41:50,Francisco Fernandez,Tomás Manosalva,Impresora 3D - 3,415,PLA,,Estudiante/Uso Personal/Navidad,10:30:00,17:25:00,Del FabLab,66g,,6/12/2019,49
+10/12/2019 16:43:04,Francisco Fernandez,Diego Olavarria,Impresora 3D - 1,46,PLA,,Estudiante/Uso Personal/Navidad,10:31:00,11:17:00,Del FabLab,6g,,6/12/2019,49
+10/12/2019 16:44:31,Francisco Fernandez,Paloma Maldonado,Impresora 3D - 5,228,PLA,,Estudiante/Uso Personal/Navidad,11:50:00,15:38:00,Del FabLab,7g,,6/12/2019,49
+10/12/2019 16:45:31,Francisco Fernandez,Vicente Lueiza,Impresora 3D - 4,203,PLA,,Estudiante/Uso Personal/Navidad,15:27:00,18:50:00,Del FabLab,47g,,6/12/2019,49
+10/12/2019 16:52:03,Francisco Fernandez,Javier De la Cerda,Impresora 3D - 3,199,PLA,,Estudiante/Uso Personal/Navidad,15:51:00,19:10:00,Del FabLab,17g,Pía Osses,6/12/2019,49
+10/12/2019 16:53:17,Francisco Fernandez,Pia Osses,Impresora 3D - 5,150,PLA,,Estudiante/Uso Personal/Navidad,16:15:00,18:45:00,Del FabLab,7g,,6/12/2019,49
+10/12/2019 16:55:42,Francisco Fernandez,Pia Osses,Impresora 3D - 5,169,PLA,,Estudiante/Uso Personal/Navidad,18:50:00,21:39:00,Del FabLab,7g,,6/12/2019,49
+10/12/2019 17:04:28,Francisco Fernandez,Vicente Lueiza,Impresora 3D - 3,125,PLA,,Estudiante/Uso Personal/Navidad,20:01:00,22:06:00,Del FabLab,17g,Pia Osses,6/12/2019,49
+10/12/2019 17:05:56,Francisco Fernandez,Javier De la Cerda,Impresora 3D - 1,108,PLA,,Estudiante/Uso Personal/Navidad,20:40:00,22:28:00,Del FabLab,no especifico ,,6/12/2019,49
+10/12/2019 17:07:42,Francisco Fernandez,Pia Osses,Impresora 3D - 1,186,PLA,no resulto,Estudiante/Uso Personal/Navidad,11:00:00,14:06:00,Del FabLab,57g,,7/12/2019,49
+10/12/2019 17:09:46,Francisco Fernandez,Pia Osses,Impresora 3D - 2,180,PLA,no resulto (= no se uso todo el material especificado),Estudiante/Uso Personal/Navidad,11:00:00,14:00:00,Del FabLab,57g,,7/12/2019,49
+10/12/2019 17:10:36,Francisco Fernandez,Pia Osses,Impresora 3D - 5,180,PLA,no resulto (= no se uso todo el material especificado),Estudiante/Uso Personal/Navidad,11:00:00,14:00:00,Del FabLab,57g,,7/12/2019,49
+10/12/2019 17:11:40,Francisco Fernandez,Vicente Lueiza,Impresora 3D - 4,31,PLA,,Estudiante/Uso Personal/Navidad,13:37:00,14:08:00,Del FabLab,17g,,7/12/2019,49
+10/12/2019 17:12:37,Francisco Fernandez,Vicente Lueiza,Impresora 3D - 3,30,PLA,,Estudiante/Uso Personal/Navidad,14:08:00,14:38:00,Del FabLab,9g,,7/12/2019,49
+10/12/2019 17:15:58,Francisco Fernandez,Pia Osses,Impresora 3D - 1,440,PLA,,Estudiante/Uso Personal/Navidad,14:40:00,22:00:00,Del FabLab,57g,,7/12/2019,49
+10/12/2019 17:17:02,Francisco Fernandez,Pia Osses,Impresora 3D - 2,440,PLA,,Estudiante/Uso Personal/Navidad,14:40:00,22:00:00,Del FabLab,57g,,7/12/2019,49
+10/12/2019 17:19:20,Francisco Fernandez,Pia Osses,Impresora 3D - 3,40,PLA,,Estudiante/Uso Personal/Navidad,16:00:00,16:40:00,Del FabLab,9g,,7/12/2019,49
+10/12/2019 17:20:37,Francisco Fernandez,Francisco Salamanca,Impresora 3D - 1,165,PLA,,Estudiante/Uso Personal/Navidad,9:55:00,12:40:00,Del FabLab,63g,,9/12/2019,50
+10/12/2019 17:21:59,Francisco Fernandez,Farid Salamé,Impresora 3D - 4,160,PLA,,Estudiante/Uso Personal/Navidad,10:00:00,12:40:00,Del FabLab,5g,,9/12/2019,50
+10/12/2019 17:23:56,Francisco Fernandez,Michael Cárdenas,Impresora 3D - 2,295,PLA,,Estudiante/Uso Personal/Navidad,11:00:00,15:55:00,Del FabLab,13g,,9/12/2019,50

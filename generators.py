@@ -25,7 +25,7 @@ def section(title, content, gray=False):
     ])
 
 def quality_index(df):
-    indexes = df.fillna('?').values
+    indexes = df.sort_values('Valor', ascending=False).fillna('?').values
     return html.Div(className='columns is-multiline is-4 is-variable', children=[
         html.Div(className=f'column is-one-quarter index-container {"unknown-data" if i[1] == "?" else ""}', children=[
             html.H1(i[1], className='title'),
@@ -149,27 +149,27 @@ def fig_hours(df, months=None, stacked=False):
     figure.update_layout(xaxis={ 'title': f'Horas de uso {"total" if stacked else ""}'}, **extras)
     return figure
 
-def fig_total_capacity(df, caps, months):
+def cap_per_machine_per_month(month_caps, machine, month):
+    this_month = month_caps[month_caps['Mes'] == month]
+    machine_count = {'Impresora 3D': 5, 'Cortadora Láser': 2, 'Router CNC': 3, 'Torno': 1, 'Cirqoid': 1}
+    return (this_month['Dias'] * this_month['Horas']).values[0] * 60 * machine_count[machine]
+
+def fig_total_capacity_2(df, month_caps, months):
     machine_list = df['Tipo Máquina'].unique()
-    month_caps = caps['Capacidad mensual']
-    total_cap = month_caps.sum()
-    figure = go.Figure()
     months = month_range(months)
     month_names = [MONTH_NAMES[m-1] for m in months]
+    figure = go.Figure()
     for machine in machine_list:
-        used_caps = [df[df.index.month==month].groupby('Tipo Máquina')['Tiempo de uso en minutos'].sum().divide(total_cap).multiply(100).round(2).get(machine, 0) for month in months]
-        figure.add_trace(go.Bar(x=month_names, y=used_caps, name=machine, hoverinfo='name+y'))
-    totals_per_month = [f'{df[df.index.month==m].sum()["Tiempo de uso en minutos"]*100/total_cap:.2f}%' for m in months] 
-    figure.add_trace(go.Scatter(
-        x=month_names, y=totals_per_month, 
-        text=totals_per_month,
-        textposition='top center',
-        mode='text',
-        showlegend=False,
-        hoverinfo='skip'))
-    figure.update_layout(
-        barmode='relative',
-        yaxis=dict(type='linear', ticksuffix='%', range=[1, 20], title='Capacidad utilizada total'))
+        texts = []
+        caps = []
+        for month in months:
+            total_cap = cap_per_machine_per_month(month_caps, machine, month)
+            hours = total_cap // 60
+            used_cap = df[df.index.month==month].groupby('Tipo Máquina')['Tiempo de uso en minutos'].sum().divide(total_cap).multiply(100).round(2).get(machine, 0)
+            caps.append(used_cap)
+            texts.append(f'{used_cap}% utilizado de una capacidad total de {hours} horas.')
+        figure.add_trace(go.Bar(x=month_names, y=caps, name=machine, hovertext=texts))
+    figure.update_layout(barmode='group', yaxis=dict(type='linear', ticksuffix='%', title='Capacidad Utilizada'))
     return figure
 
 """
@@ -225,7 +225,7 @@ def time_per_machine(df, months=None, stacked=False):
     return dcc.Graph(figure=fig_hours(df, months=months, stacked=stacked), style={'height': '80vh'})
 
 def machine_capacity(df, caps, months=None):
-    return dcc.Graph(figure=fig_total_capacity(df, caps, months), style={'height': '80vh'})
+    return dcc.Graph(figure=fig_total_capacity_2(df, caps, months), style={'height': '80vh'})
 
 #def uses(df, months):
 #    return dcc.Graph(figure=fig_uses(df, months), style={'height': '80vh'})

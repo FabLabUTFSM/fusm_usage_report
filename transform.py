@@ -38,8 +38,7 @@ def drop_unused(dataframe):
         'Comentarios', 
         'El material utilizado fue:', 
         'Si el material fue facilitado por FabLab, especificar cuanto se utilizó ', 
-        'Quién solicito el trabajo?',
-        'Unnamed: 14'])
+        'Quién solicito el trabajo?'])
 
 def round_decimals(dataframe):
     col = 'Tiempo de uso en minutos'

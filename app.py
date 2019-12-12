@@ -8,8 +8,8 @@ from generators import section, records_per_machine, time_per_machine, first, po
 from transform import shape_data
 from utils import month_range
 
-records = load_data('uso_maquinas_2111.csv', shape_data)
-capacity = load_data('capacidad_maquinas_2019.csv', index_col=0)
+records = load_data('usos_121219.csv', shape_data)
+month_caps = load_data('capacidades.csv')
 kpi = load_data('indicadores_calidad.csv')
 
 app = dash.Dash(__name__, meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}])
@@ -45,7 +45,9 @@ app.layout = html.Div(children=[
         html.Div(id='time-per-machine-tab')
     ]),
     section('Capacidad utilizada', [
-        html.P('La capacidad utilizada está calculada sobre un uso total del laboratorio de 8 horas diarias, 5 días a la semana.'),
+        html.P('La capacidad utilizada es un porcentaje basado en la cantidad de máquinas, las horas y los días de operación mensuales del laboratorio, y la utilización registrada.'),
+        html.P('Cada mes tiene una capacidad de utilización total distinto para cada máquina.'),
+        html.P('En el mes actual, la capacidad utilizada representa la del mes completo.'),
         html.Div(id='machine-capacity')
     ]),
     #section('Distribución de usos', [
@@ -78,7 +80,7 @@ def time_per_machine_tab_content(value, months):
 
 @app.callback(Output('machine-capacity', 'children'), [Input('month-range-slider', 'value')])
 def machine_capacity_content(months):
-    return machine_capacity(records, capacity, months)
+    return machine_capacity(records, month_caps, months)
 
 # @app.callback(Output('uses-distribution', 'children'), [Input('month-range-slider', 'value')])
 # def uses_distribution_content(months):
@@ -93,7 +95,7 @@ def students_use_content(months):
     return contexts(records, months, level='Estudiante')
 
 @app.callback(Output('internal-use', 'children'), [Input('month-range-slider', 'value')])
-def students_use_content(months):
+def internal_use_content(months):
     return contexts(records, months, level='Interno')
 
 @app.callback(Output('filtered-records', 'children'), [Input('month-range-slider', 'value')])
