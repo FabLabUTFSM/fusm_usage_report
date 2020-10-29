@@ -43,3 +43,20 @@ Otras herramientas que pueden resultar útiles para el desarrollo, pero que
 no son un requisito son `Visual Studio Code` como editor, instalando la
 extensión `Excel Viewer` para mejorar la visualización de archivos `.csv`.
 
+### 2020
+
+Actualización automatica de indicadores. 
+
+"Bases de datos":
+- [Proyectos inscritos](https://docs.google.com/spreadsheets/d/1I5LETj59YUSIkaAwXWoY6pDjINoE9z0E9vRDy_YS3hc/edit#gid=1374792701) - Ojo con la columna integrantes (G), donde hay mas plantillas con informacion importante de las personas que trabajan en el proyecto. 
+- [Usuarios Fab lab](https://docs.google.com/spreadsheets/d/134Svl4q5eEZGB6ViffYZDCmDC9aEk2X3xOugXUiP9oI/edit#gid=0)
+- [Uso de maquinas](https://docs.google.com/spreadsheets/d/13_senbWEVSwPHzdIkZ9GAq6LNfhZ7W_RY5MD1y5hgJM/edit#gid=141457555)
+
+Indicadores:
+- N personas capacitadas
+- N personas capacitadas x carrera
+- N personas capacitadas por campus
+- N de proyectos
+- N Personas trabajando en proyectos
+- % uso máquinas
+
