@@ -28,7 +28,7 @@ app.layout = html.Div(children=[
             f'{len(records[records.index.month > 3])} registros en total.',
             html.Span(id='filtered-records')
         ]),
-        month_selector(records, first_month=4)
+        month_selector(records, first_month=1)
     ], gray=True),
     section('Usos por máquina', [
         dcc.Tabs(id='records-per-machine-tabs', value='separate', children=[
@@ -103,4 +103,4 @@ def filtered_records_count(months):
     return f'{len(records[records.index.month.isin(month_range(months))])} registros seleccionados'
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(host='0.0.0.0', debug=False, port=8081)
