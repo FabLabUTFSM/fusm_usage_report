@@ -53,7 +53,7 @@ def first():
                 html.Div(className='columns is-vcentered is-centered', children=[
                     html.Div(className='column is-5', children=[
                         html.Figure(className='image is-4by4', children=[
-                            html.Img(src='/assets/logo.png', alt='FabLab UTFSM'),
+                            html.Img(src='/indicadores/assets/logo.png', alt='FabLab UTFSM'),
                         ]),
                     ]),
                     html.Div(className='column is-5 main-title', children=[
@@ -67,7 +67,7 @@ def first():
 def last():
     return html.Footer(className='footer has-background-white', children=[
         html.Div(className='content has-text-centered', children=[
-            html.Img(src='/assets/footer.png', alt='FabLab UTFSM'),
+            html.Img(src='/indicadores/assets/footer.png', alt='FabLab UTFSM'),
             html.P(className='is-size-7', children=[
                 'FabLab UTFSM 2019', html.Br(),
                 'UTFSM Campus San Joaquín, Edificio C', html.Br(),
